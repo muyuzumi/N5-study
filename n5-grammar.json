@@ -1,1 +1,2265 @@
-[{"id":"wa","jp":"〜は","meaning":"提示主题，相当于“至于……/……是……”","meaningEn":"as for; marks the topic of the sentence","rule":"名词 + は","notes":"Written は but pronounced 'wa'. It sets up what the sentence is about; the key information comes after it.","group":"助词","examples":[{"ja":"私は学生です。","en":"I am a student.","cn":"我是一名学生。"},{"ja":"今日は天気がいいです。","en":"The weather is nice today.","cn":"今天天气很好。"},{"ja":"この本はおもしろいです。","en":"This book is interesting.","cn":"这本书很有趣。"}]},{"id":"ga-subject","jp":"〜が（主语）","meaning":"标记主语；强调新信息或焦点","meaningEn":"marks the subject; points out new or focused information","rule":"名词 + が","notes":"Question words such as だれ and 何 take が, never は, when they are the subject. が is also used with 好き, ほしい, 上手 and わかる for the thing liked, wanted or understood.","group":"助词","examples":[{"ja":"雨が降っています。","en":"It is raining.","cn":"下雨了。"},{"ja":"だれが窓を開けましたか。","en":"Who opened the window?","cn":"谁开的窗户？"},{"ja":"私が行きます。","en":"I'll be the one to go.","cn":"我会去的。"}]},{"id":"o","jp":"〜を","meaning":"标记动作对象；也可标记经过或离开的地点","meaningEn":"marks the direct object of a verb; marks a place moved through or left","rule":"名词 + を","notes":"Written を but pronounced 'o'. With movement verbs such as 歩く, 散歩する and 出る it marks the route or the place being left.","group":"助词","examples":[{"ja":"毎朝パンを食べます。","en":"I eat bread every morning.","cn":"我每天早上都吃面包。"},{"ja":"姉は新しいかばんを買いました。","en":"My older sister bought a new bag.","cn":"我姐姐买了一个新包。"},{"ja":"公園を散歩しました。","en":"I took a walk in the park.","cn":"我在公园里散步。"}]},{"id":"ni-time","jp":"〜に（时间）","meaning":"表示具体时间点的“在……”","meaningEn":"at; on; in (a specific point in time)","rule":"名词 + に","notes":"Used with clock times, dates, days of the week and months. Relative words such as 今日, 明日, 毎日 and 来週 take no に.","group":"助词","examples":[{"ja":"毎朝7時に起きます。","en":"I get up at seven every morning.","cn":"我每天早上7点起床。"},{"ja":"日曜日に友達と会います。","en":"I'm meeting a friend on Sunday.","cn":"我周日要去见我的朋友们。"},{"ja":"8月に国へ帰ります。","en":"I'm going back to my country in August.","cn":"我将于8月返回该国。"}]},{"id":"ni-destination","jp":"〜に（目的地）","meaning":"表示移动的目的地“到……”","meaningEn":"to; into (the destination of movement)","rule":"名词 + に + 行く / 来る / 帰る","notes":"Close in meaning to へ. に puts the focus on the arrival point, へ on the direction.","group":"助词","examples":[{"ja":"毎日バスで学校に行きます。","en":"I go to school by bus every day.","cn":"我每天乘公共汽车去上学。"},{"ja":"夜10時に家に帰りました。","en":"I got home at 10 p.m.","cn":"我晚上10点回家。"},{"ja":"来月、姉が日本に来ます。","en":"My older sister is coming to Japan next month.","cn":"我姐姐下个月要来日本。"}]},{"id":"ni-location","jp":"〜に（存在地点）","meaning":"表示人或物存在的位置“在……”","meaningEn":"in; at; on (where someone or something is)","rule":"名词 + に + ある / いる","notes":"Used with ある, いる and 住む. For the place where an action happens (eat, study, play), use で instead.","group":"助词","examples":[{"ja":"机の上に辞書があります。","en":"There is a dictionary on the desk.","cn":"书桌上有一本字典。"},{"ja":"姉は東京に住んでいます。","en":"My older sister lives in Tokyo.","cn":"我姐姐住在东京。"},{"ja":"猫は今どこにいますか。","en":"Where is the cat now?","cn":"猫现在在哪里？"}]},{"id":"ni-indirect-object","jp":"〜に（间接宾语）","meaning":"表示动作的对象或接受者“给……”","meaningEn":"to (the person who receives or is the target of an action)","rule":"名词 + に","notes":"Common with あげる, 貸す, 教える, 見せる, 電話をかける and 会う. With もらう and 借りる, に marks the person you get something from.","group":"助词","examples":[{"ja":"母に手紙を書きます。","en":"I'm going to write a letter to my mother.","cn":"给我妈妈写封信。"},{"ja":"妹に本を貸しました。","en":"I lent a book to my younger sister.","cn":"我借给妹妹一本书。"},{"ja":"友達に電話をかけました。","en":"I called my friend.","cn":"我打电话给我的朋友。"}]},{"id":"ni-frequency","jp":"〜に（频率）","meaning":"表示频率单位，相当于“每……”","meaningEn":"per; in (how many times within a period)","rule":"名词 + に + 名词","notes":"The period comes first, then に, then the number of times: 月に一回 (once a month).","group":"助词","examples":[{"ja":"一週間に二回、プールで泳ぎます。","en":"I swim in the pool twice a week.","cn":"每周两次在泳池中游泳。"},{"ja":"母は一日に二回、犬の散歩をします。","en":"My mother walks the dog twice a day.","cn":"我妈妈每天遛狗两次。"},{"ja":"一年に一度、家族で旅行します。","en":"Once a year, my family goes on a trip.","cn":"我每年和家人一起旅行一次。"}]},{"id":"e","jp":"〜へ","meaning":"表示移动方向“向／往……”","meaningEn":"to; toward (the direction of movement)","rule":"名词 + へ","notes":"Written へ but pronounced 'e'. Usually interchangeable with に for destinations; へ stresses the direction a little more.","group":"助词","examples":[{"ja":"夏休みに北海道へ行きます。","en":"I'm going to Hokkaido during summer vacation.","cn":"我要去北海道度暑假。"},{"ja":"来週、国へ帰ります。","en":"I'm going back to my home country next week.","cn":"我下周要回国。"},{"ja":"どこへ行きますか。","en":"Where are you going?","cn":"你要去哪里？"}]},{"id":"de-place","jp":"〜で（动作地点）","meaning":"表示动作发生的场所“在……”","meaningEn":"at; in (the place where an action happens)","rule":"名词 + で","notes":"Compare 教室にいます (being somewhere: に) with 教室で勉強します (doing something there: で).","group":"助词","examples":[{"ja":"図書館で本を読みます。","en":"I read books at the library.","cn":"在图书馆里读一本书。"},{"ja":"きのう、デパートでくつを買いました。","en":"Yesterday I bought shoes at the department store.","cn":"昨天，我在一家百货公司买了一双鞋。"},{"ja":"駅の前で友達を待ちました。","en":"I waited for my friend in front of the station.","cn":"我在车站前等我的朋友。"}]},{"id":"de-means","jp":"〜で（手段）","meaning":"表示手段、工具、方法或语言“用／通过……”","meaningEn":"by; with; in (means, tool, method or language)","rule":"名词 + で","notes":"To say 'on foot', use 歩いて行きます rather than で.","group":"助词","examples":[{"ja":"毎日電車で会社へ行きます。","en":"I go to work by train every day.","cn":"我每天乘火车上班。"},{"ja":"はしでご飯を食べます。","en":"I eat my meals with chopsticks.","cn":"我用筷子吃饭。"},{"ja":"日本語で手紙を書きました。","en":"I wrote a letter in Japanese.","cn":"我用日语写了一封信。"}]},{"id":"to-and","jp":"〜と（并列）","meaning":"连接名词列举全部项目“和……”","meaningEn":"and (joining nouns in a complete list)","rule":"名词 + と + 名词","notes":"と lists every item; to give just some examples, use や. It joins nouns only, not verbs or adjectives.","group":"助词","examples":[{"ja":"かばんの中にペンとノートがあります。","en":"There is a pen and a notebook in my bag.","cn":"包里有一支笔和笔记本。"},{"ja":"朝ご飯にパンとたまごを食べました。","en":"I had bread and eggs for breakfast.","cn":"我早餐吃了面包和鸡蛋。"},{"ja":"父と母は銀行で働いています。","en":"My father and mother work at a bank.","cn":"我的父亲和母亲在银行工作。"}]},{"id":"to-with","jp":"〜と（共同）","meaning":"表示共同动作的伙伴“和……一起”","meaningEn":"with; together with (a partner in an action)","rule":"名词 + と","notes":"Often followed by いっしょに. With verbs like 話す, 会う and 結婚する, と marks the other person.","group":"助词","examples":[{"ja":"週末、友達と映画を見ました。","en":"I saw a movie with a friend on the weekend.","cn":"周末我和朋友看了一部电影。"},{"ja":"妹といっしょに買い物に行きます。","en":"I'm going shopping with my younger sister.","cn":"我和妹妹一起去购物。"},{"ja":"だれと昼ご飯を食べましたか。","en":"Who did you have lunch with?","cn":"您和谁共进午餐？"}]},{"id":"ya","jp":"〜や","meaning":"列举部分项目“……呀……等等”","meaningEn":"and (giving some examples out of more); ... and so on","rule":"名词 + や + 名词","notes":"Suggests the list is not complete. Often ends with など: 本や雑誌など.","group":"助词","examples":[{"ja":"机の上に本や雑誌があります。","en":"On the desk there are books, magazines and so on.","cn":"书桌上有书籍和杂志。"},{"ja":"スーパーで肉や野菜を買いました。","en":"I bought meat, vegetables and other things at the supermarket.","cn":"我在超市买了肉和蔬菜。"}]},{"id":"ka-or","jp":"〜か（选择）","meaning":"在名词选项间表示“或者”","meaningEn":"or (a choice between nouns)","rule":"名词 + か + 名词","notes":"Means one of the items is chosen. To list items together, use と or や.","group":"助词","examples":[{"ja":"飲み物はコーヒーか紅茶がいいです。","en":"For a drink, coffee or tea would be good.","cn":"我更喜欢咖啡或茶。"},{"ja":"土曜日か日曜日に買い物に行きます。","en":"I'll go shopping on Saturday or Sunday.","cn":"我周六或周日去购物。"},{"ja":"駅までバスかタクシーで行きます。","en":"I'll go to the station by bus or taxi.","cn":"乘坐巴士或出租车前往车站。"}]},{"id":"mo","jp":"〜も","meaning":"表示“也”；用于否定时表示“也不”","meaningEn":"also; too; (with a negative) not ... either; neither ... nor","rule":"名词 + も","notes":"も replaces は, が and を, but comes after other particles: 京都にも行きました.","group":"助词","examples":[{"ja":"私も学生です。","en":"I'm a student too.","cn":"我也是一名学生。"},{"ja":"兄はサッカーも好きです。","en":"My older brother likes soccer too.","cn":"我哥哥也喜欢足球。"},{"ja":"肉も魚も食べません。","en":"I eat neither meat nor fish.","cn":"我不吃肉或鱼。"}]},{"id":"no","jp":"〜の（所属）","meaning":"表示所属、归属或修饰关系“的”","meaningEn":"'s; of (possession, belonging or description)","rule":"名词 + の + 名词","notes":"The first noun describes the second: 日本の車 (a Japanese car). The second noun can be dropped when clear: それは私のです.","group":"助词","examples":[{"ja":"これは私のかさです。","en":"This is my umbrella.","cn":"这是我的雨伞。"},{"ja":"日本語の先生はとてもやさしいです。","en":"The Japanese teacher is very kind.","cn":"日语老师非常友善。"},{"ja":"駅の近くに新しい店があります。","en":"There is a new shop near the station.","cn":"车站附近有一家新商店。"}]},{"id":"kara-from","jp":"〜から（起点）","meaning":"表示起点“从……”","meaningEn":"from (a starting point in time or place)","rule":"名词 + から","notes":"Often paired with まで: 月曜日から金曜日まで (from Monday to Friday).","group":"助词","examples":[{"ja":"授業は9時からです。","en":"Class starts at nine.","cn":"9点开始上课。"},{"ja":"学校から駅まで歩きます。","en":"I walk from school to the station.","cn":"从学校步行到车站。"},{"ja":"私はブラジルから来ました。","en":"I'm from Brazil.","cn":"我来自巴西。"}]},{"id":"made","jp":"〜まで（终点）","meaning":"表示终点“到……为止”","meaningEn":"until; up to; as far as","rule":"名词 + まで","notes":"Marks the end point of something that continues. For a deadline ('by'), use までに (N4).","group":"助词","examples":[{"ja":"昼休みは1時までです。","en":"Lunch break is until one o'clock.","cn":"午餐休息时间为1点前。"},{"ja":"駅までいっしょに行きましょう。","en":"Let's go together as far as the station.","cn":"我们一起去车站吧。"},{"ja":"きのうは夜11時まで勉強しました。","en":"Yesterday I studied until 11 p.m.","cn":"昨天，我学习到晚上11点。"}]},{"id":"ka-question","jp":"〜か（疑问）","meaning":"句末疑问助词“吗”","meaningEn":"(question marker) turns a sentence into a question","rule":"句子 + か","notes":"Polite questions end in か and are usually written with 。. In casual speech か is normally dropped and rising intonation is used instead.","group":"助词","examples":[{"ja":"これはあなたのかばんですか。","en":"Is this your bag?","cn":"这是你的包吗？"},{"ja":"朝ご飯を食べましたか。","en":"Did you eat breakfast?","cn":"您吃过早餐吗？"},{"ja":"トイレはどこですか。","en":"Where is the restroom?","cn":"厕所在哪里？"}]},{"id":"ne","jp":"〜ね","meaning":"征求认同或共鸣“呢／对吧”","meaningEn":"isn't it?; right? (seeking agreement or sharing a feeling)","rule":"句子 + ね","notes":"Used when the speaker expects the listener to share the same view or knowledge. Compare よ, which tells the listener something new.","group":"助词","examples":[{"ja":"今日は暑いですね。","en":"It's hot today, isn't it?","cn":"今天很热，不是吗？"},{"ja":"このケーキ、おいしいですね。","en":"This cake is delicious, isn't it?","cn":"这个蛋糕很好吃。"},{"ja":"明日のテストは10時からですね。","en":"Tomorrow's test starts at ten, right?","cn":"明天的测试是从10点开始的。"}]},{"id":"yo","jp":"〜よ","meaning":"提示新信息或加强语气“哦／呀”","meaningEn":"you know; I tell you (giving new information or emphasis)","rule":"句子 + よ","notes":"Tells the listener something they may not know. Overusing it with superiors can sound pushy.","group":"助词","examples":[{"ja":"このラーメンはとてもおいしいですよ。","en":"This ramen is really good, you know.","cn":"这道拉面非常美味。"},{"ja":"かさを忘れていますよ。","en":"You're forgetting your umbrella.","cn":"我忘带雨伞了。"},{"ja":"明日はテストがありますよ。","en":"There's a test tomorrow, you know.","cn":"我们明天有一个测试。"}]},{"id":"yori","jp":"〜より","meaning":"比较基准“比……”","meaningEn":"than (the standard of comparison)","rule":"名词 + より","notes":"In X は Y より + adjective, Y is the standard. Japanese adjectives have no '-er' form; より does that job.","group":"助词","examples":[{"ja":"今日はきのうより寒いです。","en":"Today is colder than yesterday.","cn":"今天比昨天冷。"},{"ja":"電車はバスより速いです。","en":"Trains are faster than buses.","cn":"火车比巴士快。"},{"ja":"兄は父より背が高いです。","en":"My older brother is taller than my father.","cn":"我弟弟比我父亲高。"}]},{"id":"no-hou-ga-yori","jp":"〜の方が〜より","meaning":"比较两者：A比B更……","meaningEn":"X is more ... than Y","rule":"名词 + の方が + 名词 + より","notes":"The two parts can come in either order. Often used to answer a どちら question.","group":"比较","examples":[{"ja":"犬の方が猫より好きです。","en":"I like dogs more than cats.","cn":"与猫相比，我更喜欢狗。"},{"ja":"東京の方が大阪より人が多いです。","en":"Tokyo has more people than Osaka.","cn":"东京的人口比大阪还多。"},{"ja":"夏より冬の方が好きです。","en":"I like winter better than summer.","cn":"与夏天相比，我更喜欢冬天。"}]},{"id":"to-to-dochira-ga","jp":"〜と〜とどちらが","meaning":"询问两者中哪一个更……","meaningEn":"which is more ..., X or Y?","rule":"名词 + と + 名词 + とどちらが","notes":"Compares exactly two things. どっち is the casual form of どちら. Answer with 〜の方が.","group":"比较","examples":[{"ja":"コーヒーと紅茶とどちらが好きですか。","en":"Which do you like better, coffee or tea?","cn":"您更喜欢咖啡还是茶？"},{"ja":"電車とバスとどちらが安いですか。","en":"Which is cheaper, the train or the bus?","cn":"火车和公共汽车哪个更便宜？"},{"ja":"「山と海とどちらがいいですか。」「海の方がいいです。」","en":"\"Which is better, the mountains or the sea?\" \"The sea is better.\"","cn":"“山还是海，哪个更好？”“大海更好。”"}]},{"id":"no-naka-de-ga-ichiban","jp":"〜の中で〜が一番","meaning":"在范围中表示“最……”","meaningEn":"... is the most ... among/of","rule":"名词 + の中で + 名词 + が一番","notes":"Used for three or more items. In questions use 何, だれ, どこ or いつ before が一番.","group":"比较","examples":[{"ja":"果物の中でりんごが一番好きです。","en":"Of all fruits, I like apples the most.","cn":"我最喜欢苹果，最喜欢水果。"},{"ja":"クラスの中でだれが一番背が高いですか。","en":"Who is the tallest in the class?","cn":"谁是班上最高的人？"},{"ja":"家族の中で父が一番早く起きます。","en":"In my family, my father gets up the earliest.","cn":"我父亲在家里醒得最早。"}]},{"id":"desu","jp":"〜です","meaning":"礼貌判断句的系词“是……”","meaningEn":"is; am; are (polite copula)","rule":"名词 + です / な形容词 + です / い形容词 + です","notes":"Forms: です, ではありません, でした, ではありませんでした. After an い-adjective, です only adds politeness: 高いです.","group":"判断句","examples":[{"ja":"私はマリアです。","en":"I'm Maria.","cn":"我叫Maria。"},{"ja":"今日は月曜日です。","en":"Today is Monday.","cn":"今天是星期一。"},{"ja":"この部屋はとても静かです。","en":"This room is very quiet.","cn":"这个房间非常安静。"}]},{"id":"da","jp":"〜だ","meaning":"普通体判断句“是……”","meaningEn":"is; am; are (plain copula)","rule":"名词 + だ / な形容词 + だ","notes":"Forms: だ, じゃない, だった, じゃなかった. Never used right after an い-adjective (高いだ is wrong). Often dropped in casual questions: 学生？","group":"判断句","examples":[{"ja":"今日は日曜日だ。","en":"Today is Sunday.","cn":"今天是星期天。"},{"ja":"あの人は私の兄だ。","en":"That person is my older brother.","cn":"他是我弟弟。"},{"ja":"明日は休みだから、ゆっくり寝る。","en":"Tomorrow is a day off, so I'll sleep in.","cn":"明天是休息日，所以我会慢慢睡觉。"}]},{"id":"de-wa-arimasen-ja-nai","jp":"〜ではありません / 〜じゃない","meaning":"礼貌或普通体否定判断“不是……”","meaningEn":"is not; am not; are not","rule":"名词 + ではありません / な形容词 + ではありません / 名词 + じゃない / な形容词 + じゃない","notes":"じゃありません and じゃないです are more conversational polite forms. Past: ではありませんでした / じゃなかった. い-adjectives use 〜くない instead.","group":"判断句","examples":[{"ja":"私は先生ではありません。学生です。","en":"I'm not a teacher. I'm a student.","cn":"我不是老师。我是一名学生。"},{"ja":"今日は休みじゃない。","en":"Today isn't a day off.","cn":"我不会休息一天。"},{"ja":"この町はあまりにぎやかではありません。","en":"This town isn't very lively.","cn":"这个城镇不能太繁忙。"}]},{"id":"deshita","jp":"〜でした","meaning":"礼貌体过去判断“曾是／当时是……”","meaningEn":"was; were (polite past copula)","rule":"名词 + でした / な形容词 + でした","notes":"Past negative: ではありませんでした. い-adjectives do not take でした: say 高かったです, not 高いでした.","group":"判断句","examples":[{"ja":"きのうは私の誕生日でした。","en":"Yesterday was my birthday.","cn":"昨天是我的生日。"},{"ja":"子どものころ、野菜がきらいでした。","en":"When I was a child, I didn't like vegetables.","cn":"小时候，我不喜欢吃蔬菜。"},{"ja":"テストはかんたんでした。","en":"The test was easy.","cn":"测试很简单。"}]},{"id":"masu","jp":"〜ます","meaning":"礼貌体非过去动词（做／将做）","meaningEn":"polite non-past verb ending (do; will do)","rule":"动词ます形词干 + ます","notes":"Covers habits and future actions. 飲む→飲みます, 食べる→食べます, する→します, 来る→来ます.","group":"句型","examples":[{"ja":"毎朝コーヒーを飲みます。","en":"I drink coffee every morning.","cn":"我每天早上都喝咖啡。"},{"ja":"明日、京都へ行きます。","en":"I'm going to Kyoto tomorrow.","cn":"我明天要去京都。"},{"ja":"弟は毎晩9時に寝ます。","en":"My younger brother goes to bed at nine every night.","cn":"我哥哥每天晚上9点上床睡觉。"}]},{"id":"masen","jp":"〜ません","meaning":"礼貌体否定（不做／将不做）","meaningEn":"do not; will not (polite negative)","rule":"动词ます形词干 + ません","notes":"The plain equivalent is the ない-form: 飲みません = 飲まない.","group":"句型","examples":[{"ja":"私はお酒を飲みません。","en":"I don't drink alcohol.","cn":"我不喝酒。"},{"ja":"日曜日は学校へ行きません。","en":"I don't go to school on Sundays.","cn":"我星期天不上学。"},{"ja":"今晩はテレビを見ません。","en":"I won't watch TV tonight.","cn":"我今晚不看电视。"}]},{"id":"mashita","jp":"〜ました","meaning":"礼貌体过去（做了）","meaningEn":"did (polite past)","rule":"动词ます形词干 + ました","notes":"The plain equivalent is the た-form: 会いました = 会った.","group":"句型","examples":[{"ja":"きのう、友達に会いました。","en":"I met a friend yesterday.","cn":"昨天，我遇到了一个朋友。"},{"ja":"先週、新しいくつを買いました。","en":"I bought new shoes last week.","cn":"我上周买了一些新的。"},{"ja":"けさ、6時に起きました。","en":"I got up at six this morning.","cn":"嗯，我六点就起床了。"}]},{"id":"masen-deshita","jp":"〜ませんでした","meaning":"礼貌体过去否定（没做）","meaningEn":"did not (polite past negative)","rule":"动词ます形词干 + ませんでした","notes":"The plain equivalent is 〜なかった: 食べませんでした = 食べなかった.","group":"句型","examples":[{"ja":"けさは朝ご飯を食べませんでした。","en":"I didn't eat breakfast this morning.","cn":"Kesa没有吃早餐。"},{"ja":"週末は宿題をしませんでした。","en":"I didn't do my homework over the weekend.","cn":"我周末没做作业。"},{"ja":"きのうは雨でしたから、出かけませんでした。","en":"It rained yesterday, so I didn't go out.","cn":"昨天下雨了，所以我没有出去。"}]},{"id":"nai","jp":"〜ない","meaning":"动词普通体否定（不做／将不做）","meaningEn":"do not; will not (plain negative of verbs)","rule":"动词ない形词干 + ない","notes":"う-verbs change the last -u sound to -a: 書く→書かない, 買う→買わない. る-verbs drop る: 食べない. する→しない, 来る→こない, ある→ない. Past: 〜なかった.","group":"句型","examples":[{"ja":"今日は学校へ行かない。","en":"I'm not going to school today.","cn":"我今天不去上学了。"},{"ja":"兄は肉を食べない。","en":"My older brother doesn't eat meat.","cn":"我弟弟不吃肉。"},{"ja":"「コーヒー、飲む？」「ううん、飲まない。」","en":"\"Are you having coffee?\" \"No, I'm not.\"","cn":"“要喝咖啡吗？”“不，我不喝酒。”"}]},{"id":"ta","jp":"〜た","meaning":"动词普通体过去（做了）","meaningEn":"did (plain past of verbs)","rule":"动词た形","notes":"Made exactly like the て-form, with て→た and で→だ: 書いて→書いた, 飲んで→飲んだ, 行って→行った. Polite equivalent: 〜ました.","group":"句型","examples":[{"ja":"週末は家で映画を見た。","en":"I watched a movie at home over the weekend.","cn":"周末我在家看了一部电影。"},{"ja":"駅で先生に会った。","en":"I ran into my teacher at the station.","cn":"我在车站遇到了老师。"},{"ja":"「昼ご飯、食べた？」「うん、もう食べた。」","en":"\"Did you eat lunch?\" \"Yeah, I already ate.\"","cn":"“你吃过午饭了吗？”“是啊，我已经吃过了。”"}]},{"id":"mashou","jp":"〜ましょう","meaning":"提议一起做“我们来……”","meaningEn":"let's (do)","rule":"动词ます形词干 + ましょう","notes":"Used when the speaker expects the listener to agree. To invite more gently, use 〜ませんか.","group":"句型","examples":[{"ja":"いっしょに行きましょう。","en":"Let's go together.","cn":"我们一起去吧。"},{"ja":"少し休みましょう。","en":"Let's take a short break.","cn":"我们休息一下吧。"},{"ja":"駅の前で会いましょう。","en":"Let's meet in front of the station.","cn":"我会在车站前与您见面。"}]},{"id":"mashou-ka","jp":"〜ましょうか","meaning":"提议或主动询问“要我／我们……吗？”","meaningEn":"shall I ...?; shall we ...?","rule":"动词ます形词干 + ましょうか","notes":"Offers to do something for the listener (shall I?) or asks them to decide something together (shall we?).","group":"句型","examples":[{"ja":"窓を開けましょうか。","en":"Shall I open the window?","cn":"要我打开窗户吗？"},{"ja":"荷物を持ちましょうか。","en":"Shall I carry your bags?","cn":"要我帮你拿行李吗？"},{"ja":"何時に会いましょうか。","en":"What time shall we meet?","cn":"我们应该什么时候见面？"}]},{"id":"masen-ka","jp":"〜ませんか","meaning":"礼貌邀请“要不要一起……？”","meaningEn":"won't you ...?; would you like to ...? (polite invitation)","rule":"动词ます形词干 + ませんか","notes":"Gentler than 〜ましょう because it leaves the listener room to decline. Accept with ええ、〜ましょう.","group":"句型","examples":[{"ja":"いっしょに昼ご飯を食べませんか。","en":"Would you like to have lunch together?","cn":"我们不如一起吃午饭吧？"},{"ja":"日曜日にテニスをしませんか。","en":"Would you like to play tennis on Sunday?","cn":"你为什么不在周日打网球？"},{"ja":"明日、公園を散歩しませんか。","en":"How about a walk in the park tomorrow?","cn":"你明天去公园散散步怎么样？"}]},{"id":"tai","jp":"〜たい","meaning":"表示想做某事","meaningEn":"want to (do)","rule":"动词ます形词干 + たい","notes":"Conjugates like an い-adjective: 〜たくない, 〜たかった. The object can take が or を. Not used to state another person's wishes directly.","group":"愿望","examples":[{"ja":"夏休みに沖縄へ行きたいです。","en":"I want to go to Okinawa during summer vacation.","cn":"我想在暑假期间去冲绳。"},{"ja":"冷たい水が飲みたいです。","en":"I want to drink some cold water.","cn":"我想喝冷水。"},{"ja":"何が食べたいですか。","en":"What do you want to eat?","cn":"您想吃什么？"}]},{"id":"ga-hoshii","jp":"〜がほしい","meaning":"表示想要某物","meaningEn":"want (something)","rule":"名词 + がほしい","notes":"For things, not actions (actions use 〜たい). Conjugates like an い-adjective: ほしくない, ほしかった.","group":"愿望","examples":[{"ja":"新しいパソコンがほしいです。","en":"I want a new computer.","cn":"我想要一台新电脑。"},{"ja":"誕生日に何がほしいですか。","en":"What do you want for your birthday?","cn":"你想要什么生日礼物？"},{"ja":"今は何もほしくないです。","en":"I don't want anything right now.","cn":"我现在什么都不想要。"}]},{"id":"o-kudasai","jp":"〜をください","meaning":"请求给我某物；点餐时表示“请来……”","meaningEn":"please give me (something); I'll have","rule":"名词 + をください","notes":"Used when shopping or ordering. A quantity goes after を with no particle: 切手を二枚ください.","group":"请求许可","examples":[{"ja":"すみません、水をください。","en":"Excuse me, could I have some water?","cn":"对不起，请给我水。"},{"ja":"このりんごを三つください。","en":"I'll take three of these apples, please.","cn":"请给我三个苹果。"},{"ja":"メニューをください。","en":"Could I have the menu, please?","cn":"我想要一份菜单。"}]},{"id":"te-kudasai","jp":"〜てください","meaning":"请求对方做某事“请……”","meaningEn":"please (do)","rule":"动词て形 + ください","notes":"Polite, but still an instruction the speaker expects to be followed. Softer requests use 〜てくれませんか (N4).","group":"请求许可","examples":[{"ja":"もう少しゆっくり話してください。","en":"Please speak a little more slowly.","cn":"请说慢一点。"},{"ja":"ここでくつをぬいでください。","en":"Please take off your shoes here.","cn":"请在这里擦鞋。"},{"ja":"すみません、駅までの道を教えてください。","en":"Excuse me, could you tell me the way to the station?","cn":"不好意思，能告诉我去车站的路吗？"}]},{"id":"naide-kudasai","jp":"〜ないでください","meaning":"请求对方不要做某事“请不要……”","meaningEn":"please don't (do)","rule":"动词ない形 + でください","notes":"Softer than 〜てはいけません. In casual speech ください is dropped: 見ないで.","group":"请求许可","examples":[{"ja":"教室で食べないでください。","en":"Please don't eat in the classroom.","cn":"请勿在教室内用餐。"},{"ja":"この部屋に入らないでください。","en":"Please don't go into this room.","cn":"请勿进入此房间。"},{"ja":"心配しないでください。","en":"Please don't worry.","cn":"别担心。"}]},{"id":"te-mo-ii","jp":"〜てもいい","meaning":"许可“可以……”","meaningEn":"may; it's okay to","rule":"动词て形 + もいい","notes":"Add ですか to ask for permission. A polite refusal is often just すみません、ちょっと….","group":"句型","examples":[{"ja":"この辞書を使ってもいいですか。","en":"May I use this dictionary?","cn":"我可以使用这本词典吗？"},{"ja":"今日は早く帰ってもいいです。","en":"You may go home early today.","cn":"您今天可以提前离开。"},{"ja":"ここにすわってもいいですか。","en":"Is it all right if I sit here?","cn":"我可以坐在这里吗？"}]},{"id":"te-wa-ikenai","jp":"〜てはいけない","meaning":"禁止“不能／不可以……”","meaningEn":"must not; may not","rule":"动词て形 + はいけない","notes":"A strong prohibition, often for rules. Polite form: 〜てはいけません. Casual contraction: 〜ちゃいけない / 〜じゃいけない.","group":"句型","examples":[{"ja":"図書館で大きい声で話してはいけません。","en":"You must not talk loudly in the library.","cn":"请勿在图书馆大声喧哗。"},{"ja":"子どもはこの川で泳いではいけません。","en":"Children must not swim in this river.","cn":"儿童不得在这条河中游泳。"},{"ja":"ここでたばこを吸ってはいけません。","en":"You must not smoke here.","cn":"请勿在这里吸烟。"}]},{"id":"nakereba-naranai-nakute-wa-ikenai","jp":"〜なければならない / 〜なくてはいけない","meaning":"义务“必须……”","meaningEn":"must; have to","rule":"动词ない形词干 + なければならない / 动词ない形词干 + なくてはいけない","notes":"Polite forms end in なりません / いけません. The two mean the same; なければならない sounds slightly more formal.","group":"句型","examples":[{"ja":"明日は6時に起きなければなりません。","en":"I have to get up at six tomorrow.","cn":"我明天6点要起床。"},{"ja":"今日は早く家に帰らなくてはいけません。","en":"I have to go home early today.","cn":"我今天要早点回家。"},{"ja":"日本では、家に入る前にくつをぬがなければなりません。","en":"In Japan, you have to take off your shoes before going into a house.","cn":"在日本，进屋前必须擦鞋。"}]},{"id":"nakute-mo-ii","jp":"〜なくてもいい","meaning":"表示没有必要“不必……”","meaningEn":"don't have to; need not","rule":"动词ない形词干 + なくてもいい","notes":"The opposite of 〜なければならない. Ask with 〜なくてもいいですか (Is it all right if I don't ...?).","group":"句型","examples":[{"ja":"明日は学校へ来なくてもいいです。","en":"You don't have to come to school tomorrow.","cn":"你明天不必来学校。"},{"ja":"名前は書かなくてもいいです。","en":"You don't need to write your name.","cn":"您无需填写姓名。"},{"ja":"今日は料理をしなくてもいいですよ。","en":"You don't have to cook today.","cn":"您今天不必做饭。"}]},{"id":"te-iru","jp":"〜ている","meaning":"表示正在进行、状态持续或习惯动作","meaningEn":"be doing (ongoing action); be in a state (result of a change); do regularly","rule":"动词て形 + いる","notes":"With action verbs (食べる, 読む) it shows an action in progress; with change verbs (結婚する, 開く, 知る) it shows the resulting state. Polite: 〜ています.","group":"句型","examples":[{"ja":"弟は今、部屋でゲームをしています。","en":"My younger brother is playing a game in his room now.","cn":"我哥哥现在正在他的房间里玩游戏。"},{"ja":"姉は結婚しています。","en":"My older sister is married.","cn":"我姐姐已经结婚了。"},{"ja":"窓が開いています。","en":"The window is open.","cn":"窗户是开着的。"}]},{"id":"te","jp":"〜て","meaning":"连接动作，表示先后“……然后……”","meaningEn":"and; and then (linking actions in order)","rule":"动词て形 + 句子","notes":"The final verb sets the tense for the whole sentence. 書く→書いて, 飲む→飲んで, 話す→話して, 買う→買って, 行く→行って (irregular).","group":"句型","examples":[{"ja":"朝起きて、顔を洗います。","en":"I get up in the morning and wash my face.","cn":"早上起床洗脸。"},{"ja":"デパートへ行って、セーターを買いました。","en":"I went to the department store and bought a sweater.","cn":"我去百货公司买了一件毛衣。"},{"ja":"家に帰って、晩ご飯を食べて、寝ました。","en":"I went home, ate dinner and went to bed.","cn":"我回家吃晚饭，然后上床睡觉。"}]},{"id":"te-kara","jp":"〜てから","meaning":"表示做完A之后再做B","meaningEn":"after doing; (do A) and then (B); since","rule":"动词て形 + から","notes":"Stresses that A is finished before B starts, more clearly than a plain て. With ている in the main clause it often means 'since'.","group":"时间","examples":[{"ja":"手を洗ってから、ご飯を食べましょう。","en":"Let's wash our hands and then eat.","cn":"进食前请洗手。"},{"ja":"宿題をしてから、テレビを見ます。","en":"I'll watch TV after I do my homework.","cn":"我做作业，然后看电视。"},{"ja":"日本に来てから、毎日日本語を勉強しています。","en":"Since coming to Japan, I've been studying Japanese every day.","cn":"自从我来到日本以来，我每天都在学习日语。"}]},{"id":"tari-tari-suru","jp":"〜たり〜たりする","meaning":"列举有代表性的动作“做做A、做做B”","meaningEn":"do things like A and B; sometimes A, sometimes B","rule":"动词た形 + り + 动词た形 + りする","notes":"Picks out a few actions from many. Tense and politeness go on the final する: 〜たりしました.","group":"句型","examples":[{"ja":"日曜日はそうじをしたり、洗濯をしたりします。","en":"On Sundays I do things like cleaning and laundry.","cn":"我周日做这件事，洗衣服。"},{"ja":"休みの日は本を読んだり、音楽を聞いたりします。","en":"On my days off I read books, listen to music and so on.","cn":"在假期，我读书，听音乐。"},{"ja":"夏休みは海で泳いだり、山に登ったりしました。","en":"During summer vacation I swam in the sea, climbed mountains and so on.","cn":"暑假期间，我在海里游泳，爬山。"}]},{"id":"ta-koto-ga-aru","jp":"〜たことがある","meaning":"表示曾经有过某种经历","meaningEn":"have (ever) done; have the experience of doing","rule":"动词た形 + ことがある","notes":"Talks about life experience, not something just done: きのう食べたことがある is wrong. Negative 〜たことがありません means 'have never'.","group":"句型","examples":[{"ja":"富士山に登ったことがあります。","en":"I have climbed Mt. Fuji.","cn":"我爬过富士山。"},{"ja":"日本の映画を見たことがありますか。","en":"Have you ever seen a Japanese movie?","cn":"您看过日本电影吗？"},{"ja":"私は馬に乗ったことがありません。","en":"I have never ridden a horse.","cn":"我从来没有骑过马。"}]},{"id":"mae-ni","jp":"〜前に","meaning":"表示做某事之前；也可表示事件之前或多久以前","meaningEn":"before (doing); before (an event); ago","rule":"动词辞书形 + 前に / 名词 + の + 前に","notes":"The verb before 前に is always in dictionary form, even when talking about the past. With a length of time there is no の: 3年前に (three years ago).","group":"时间","examples":[{"ja":"寝る前に歯をみがきます。","en":"I brush my teeth before going to bed.","cn":"睡觉前刷牙。"},{"ja":"授業の前にコーヒーを飲みます。","en":"I drink coffee before class.","cn":"上课前喝咖啡。"},{"ja":"3年前に日本へ来ました。","en":"I came to Japan three years ago.","cn":"我三年前来到日本。"}]},{"id":"ato-de","jp":"〜後で","meaning":"表示做完某事之后","meaningEn":"after (doing); after (an event)","rule":"动词た形 + 後で / 名词 + の + 後で","notes":"The verb before 後で is always in た-form, even for future plans. On its own, 後で means 'later'.","group":"时间","examples":[{"ja":"晩ご飯を食べた後で、散歩をします。","en":"I take a walk after eating dinner.","cn":"晚饭后我去散散步。"},{"ja":"仕事の後で、いっしょに飲みに行きませんか。","en":"Would you like to go for a drink after work?","cn":"我们下班后出去喝一杯怎么样？"},{"ja":"テストが終わった後で、友達と遊びました。","en":"After the test was over, I hung out with friends.","cn":"测试结束后，我和朋友一起玩。"}]},{"id":"nagara","jp":"〜ながら（同时）","meaning":"表示同时进行两个动作“一边……一边……”","meaningEn":"while (doing two actions at the same time)","rule":"动词ます形词干 + ながら","notes":"Both actions are done by the same person. The main action comes last: in A-ながら B, B is the main activity.","group":"句型","examples":[{"ja":"音楽を聞きながら勉強します。","en":"I study while listening to music.","cn":"我边听音乐边学习。"},{"ja":"父はいつも新聞を読みながら朝ご飯を食べます。","en":"My father always eats breakfast while reading the newspaper.","cn":"我父亲总是在看报纸的时候吃早餐。"},{"ja":"コーヒーを飲みながら話しましょう。","en":"Let's talk over coffee.","cn":"我们喝杯咖啡聊聊吧。"}]},{"id":"ni-iku","jp":"〜に行く","meaning":"表示去某地做某事","meaningEn":"go (somewhere) to do","rule":"动词ます形词干 + に行く / 名词 + に行く","notes":"来る and 帰る work the same way: 遊びに来る. With する-nouns the noun can come directly: 買い物に行く, 散歩に行く.","group":"句型","examples":[{"ja":"デパートへ服を買いに行きます。","en":"I'm going to the department store to buy clothes.","cn":"我要去百货商店买些衣服。"},{"ja":"週末、海へ泳ぎに行きました。","en":"I went to the beach to swim on the weekend.","cn":"我周末去海里游泳。"},{"ja":"友達がうちへ遊びに来ました。","en":"A friend came over to my place to hang out.","cn":"一位朋友来拜访我们。"}]},{"id":"ga-suki-ga-kirai","jp":"〜が好き / 〜が嫌い","meaning":"表示喜欢／讨厌……","meaningEn":"like; dislike","rule":"名词 + が好き / 名词 + が嫌い / 动词辞书形 + の + が好き","notes":"好き and 嫌い are な-adjectives, so the thing liked takes が, not を. 大好き and 大嫌い are stronger. 嫌い can sound blunt; あまり好きじゃない is softer.","group":"句型","examples":[{"ja":"私は甘いものが好きです。","en":"I like sweet things.","cn":"我喜欢甜食。"},{"ja":"弟は野菜が嫌いです。","en":"My younger brother doesn't like vegetables.","cn":"我弟弟讨厌蔬菜。"},{"ja":"母は料理をするのが好きです。","en":"My mother likes cooking.","cn":"我妈妈喜欢做饭。"}]},{"id":"ga-jouzu-ga-heta","jp":"〜が上手 / 〜が下手","meaning":"表示擅长／不擅长……","meaningEn":"good at; bad at","rule":"名词 + が上手 / 名词 + が下手","notes":"Mostly used about other people; calling yourself 上手 can sound like bragging. Both are な-adjectives: 料理が上手な人.","group":"句型","examples":[{"ja":"姉はピアノが上手です。","en":"My older sister is good at the piano.","cn":"我姐姐是一位优秀的钢琴家。"},{"ja":"私は歌が下手です。","en":"I'm bad at singing.","cn":"我不擅长唱歌。"},{"ja":"マイクさんは日本語が上手ですね。","en":"Mike, your Japanese is really good.","cn":"迈克擅长日语，不是吗？"}]},{"id":"ga-aru-ga-iru","jp":"〜がある / 〜がいる","meaning":"表示存在或拥有：ある用于物，いる用于人和动物","meaningEn":"there is; there are; have (ある for things, いる for people and animals)","rule":"名词 + がある / 名词 + がいる","notes":"ある is for things, plants and events; いる is for people and animals. Negatives: ない / いない (polite: ありません / いません).","group":"句型","examples":[{"ja":"公園に大きい木があります。","en":"There is a big tree in the park.","cn":"公园里有一棵大树。"},{"ja":"私は妹が一人います。","en":"I have one younger sister.","cn":"我有一个姐姐。"},{"ja":"明日、日本語のテストがあります。","en":"There's a Japanese test tomorrow.","cn":"我明天有日语考试。"}]},{"id":"kara-reason","jp":"〜から（原因）","meaning":"表示原因“因为……”","meaningEn":"because; since; so","rule":"句子 + から","notes":"The reason comes first: A から B (A, so B). Answer どうして with 〜からです. Nouns and な-adjectives need だ: 雨だから.","group":"原因","examples":[{"ja":"今日は寒いから、コートを着ます。","en":"It's cold today, so I'll wear a coat.","cn":"今天很冷，所以我要穿件外套。"},{"ja":"時間がありませんから、タクシーで行きましょう。","en":"We don't have time, so let's take a taxi.","cn":"我们没有太多时间，所以我们乘坐出租车吧。"},{"ja":"「どうして休みましたか。」「頭が痛かったからです。」","en":"\"Why were you absent?\" \"Because I had a headache.\"","cn":"“你为什么休息？”“因为我头痛。”"}]},{"id":"ga-but","jp":"〜が（转折）","meaning":"连接转折“但是……”","meaningEn":"but; although","rule":"句子 + が","notes":"Also used just to soften a request or lead into a topic: すみませんが…. A little more formal than けど (N4).","group":"助词","examples":[{"ja":"この店は安いですが、あまりおいしくないです。","en":"This restaurant is cheap, but the food isn't very good.","cn":"这家商店很便宜，但不是很好吃。"},{"ja":"日本語は難しいですが、おもしろいです。","en":"Japanese is difficult, but interesting.","cn":"日语很难，但很有趣。"},{"ja":"すみませんが、ちょっと静かにしてください。","en":"Excuse me, but please be a little quieter.","cn":"不好意思，请保持安静。"}]},{"id":"deshou","jp":"〜でしょう","meaning":"表示推测、委婉判断或征求确认“……吧”","meaningEn":"probably; I think; ..., right?","rule":"动词普通形 / い形容词 / な形容词 / 名词 + でしょう","notes":"Typical of weather forecasts. Said with rising intonation, it asks the listener to agree. Plain form: だろう (N4).","group":"句型","examples":[{"ja":"明日は雨が降るでしょう。","en":"It will probably rain tomorrow.","cn":"明天会下雨。"},{"ja":"山の上は寒いでしょう。","en":"It's probably cold at the top of the mountain.","cn":"山上会很冷。"},{"ja":"このかばん、かわいいでしょう？","en":"This bag is cute, isn't it?","cn":"这个包很可爱吧？"}]},{"id":"ku-naru-ni-naru","jp":"〜くなる / 〜になる","meaning":"表示变化“变得……”","meaningEn":"become; get; turn","rule":"い形容词く形 + なる / な形容词 + になる / 名词 + になる","notes":"いい becomes よくなる. Often used in the past to describe a change that has happened: 大きくなりました.","group":"句型","examples":[{"ja":"あたたかくなりましたね。","en":"It's gotten warmer, hasn't it?","cn":"热身。"},{"ja":"部屋がきれいになりました。","en":"The room has become clean.","cn":"房间已打扫干净。"},{"ja":"兄は来年、医者になります。","en":"My older brother will become a doctor next year.","cn":"我哥哥明年就要当医生了。"}]},{"id":"ni-suru","jp":"〜にする（decide）","meaning":"表示决定或选择“决定要……”","meaningEn":"decide on; choose; I'll have","rule":"名词 + にする","notes":"Common when ordering food or picking from options. Past: 〜にしました (I decided on ...).","group":"句型","examples":[{"ja":"私はカレーにします。","en":"I'll have the curry.","cn":"我会做咖喱。"},{"ja":"飲み物は何にしますか。","en":"What would you like to drink?","cn":"您想喝什么？"},{"ja":"旅行は来月にしましょう。","en":"Let's plan the trip for next month.","cn":"下个月出行。"}]},{"id":"mada-te-inai","jp":"まだ〜ていない","meaning":"表示尚未发生“还没有……”","meaningEn":"not yet (have done)","rule":"まだ + 动词て形 + いない / まだ + 动词て形 + いません","notes":"Use ていない, not ませんでした, for something that may still happen. The short answer is いいえ、まだです.","group":"句型","examples":[{"ja":"まだ昼ご飯を食べていません。","en":"I haven't eaten lunch yet.","cn":"我还没吃午饭呢。"},{"ja":"「宿題はもうしましたか。」「いいえ、まだしていません。」","en":"\"Have you done your homework yet?\" \"No, not yet.\"","cn":"“你的作业做完了吗？”“不，我没有。”"},{"ja":"電車はまだ来ていません。","en":"The train hasn't come yet.","cn":"火车还没有到。"}]},{"id":"mou-ta","jp":"もう〜た","meaning":"表示动作已经发生“已经……”","meaningEn":"already (have done); (in questions) yet","rule":"もう + 动词た形 / もう + 动词ます形词干 + ました","notes":"In questions もう means 'yet'. With a negative verb, もう means 'no longer': もう食べません.","group":"时间","examples":[{"ja":"「もう晩ご飯を食べましたか。」「はい、もう食べました。」","en":"\"Have you eaten dinner yet?\" \"Yes, I already have.\"","cn":"“你吃过晚饭了吗？”“是的，我已经吃过了。”"},{"ja":"妹はもう寝ました。","en":"My younger sister has already gone to bed.","cn":"我姐姐已经睡着了。"},{"ja":"映画はもう始まりましたよ。","en":"The movie has already started.","cn":"电影已经开始了。"}]},{"id":"amari-nai","jp":"あまり〜ない","meaning":"あまり＋否定：不太……","meaningEn":"not very; not much; not often","rule":"あまり + 动词ない形 / あまり + い形容词く形 + ない / あまり + な形容词 + じゃない","notes":"Always followed by a negative form. あまり好きじゃない is a softer way to say you dislike something.","group":"句型","examples":[{"ja":"私はあまりテレビを見ません。","en":"I don't watch much TV.","cn":"我不看太多电视。"},{"ja":"このりんごはあまり甘くないです。","en":"This apple isn't very sweet.","cn":"这个苹果不是很甜。"},{"ja":"今日はあまり忙しくありません。","en":"I'm not very busy today.","cn":"我今天不太忙。"}]},{"id":"zenzen-nai","jp":"全然〜ない","meaning":"全然＋否定：完全不……","meaningEn":"not at all; not in the least","rule":"全然 + 动词ない形 / 全然 + い形容词く形 + ない / 全然 + な形容词 + じゃない","notes":"Stronger than あまり〜ない. In casual speech 全然 is sometimes used with positive words (全然大丈夫), but with a negative is the standard use.","group":"句型","examples":[{"ja":"この問題は全然わかりません。","en":"I don't understand this question at all.","cn":"我对此问题一无所知。"},{"ja":"今日は全然寒くないです。","en":"It's not cold at all today.","cn":"今天一点也不冷。"},{"ja":"弟は全然勉強しません。","en":"My younger brother doesn't study at all.","cn":"我哥哥根本不学习。"}]},{"id":"dake","jp":"〜だけ","meaning":"限定范围“只／仅仅……”","meaningEn":"only; just","rule":"名词 + だけ / 动词辞书形 + だけ","notes":"Neutral in tone. Compare しか〜ない (N4), which stresses that the amount is small.","group":"句型","examples":[{"ja":"財布に100円だけあります。","en":"I only have 100 yen in my wallet.","cn":"钱包里只有100日元。"},{"ja":"朝はコーヒーだけ飲みます。","en":"In the morning I only have coffee.","cn":"我只在早上喝咖啡。"},{"ja":"日曜日だけ休みです。","en":"Sunday is my only day off.","cn":"仅在周日休息。"}]},{"id":"kurai-gurai","jp":"〜くらい / 〜ぐらい（大约）","meaning":"表示大约的数量或时长“左右”","meaningEn":"about; approximately (an amount or length of time)","rule":"名词 + くらい / 名词 + ぐらい","notes":"Used with amounts and durations. For a point in time (around three o'clock), use ごろ: 3時ごろ.","group":"数量","examples":[{"ja":"駅まで歩いて10分ぐらいです。","en":"It's about a ten-minute walk to the station.","cn":"步行约10分钟即可抵达车站。"},{"ja":"毎日2時間くらい勉強します。","en":"I study for about two hours every day.","cn":"我每天学习大约2个小时。"},{"ja":"このかばんは5000円ぐらいでした。","en":"This bag was about 5,000 yen.","cn":"这个包的价格约为5000日元。"}]},{"id":"goro","jp":"〜ごろ","meaning":"表示大致的时间点“……左右”","meaningEn":"around; about (a point in time)","rule":"名词 + ごろ","notes":"Attaches to clock times, dates and months. に after ごろ is optional: 7時ごろ(に)起きます.","group":"时间","examples":[{"ja":"毎晩11時ごろ寝ます。","en":"I go to bed around eleven every night.","cn":"我每天晚上11点左右睡觉。"},{"ja":"4月ごろ、桜が咲きます。","en":"The cherry blossoms bloom around April.","cn":"樱花在四月左右盛开。"},{"ja":"夕方6時ごろに家に帰ります。","en":"I get home around six in the evening.","cn":"我会在下午6点左右回家。"}]},{"id":"nani-mo-nai-dare-mo-nai","jp":"何も〜ない / 誰も〜ない","meaning":"疑问词＋も＋否定：什么也不／谁也不","meaningEn":"nothing; nobody; not anything; not anyone","rule":"何も + 动词ない形 / 誰も + 动词ない形","notes":"With places, a particle comes before も: どこにも / どこへも行きません (go nowhere). 誰 is often written in hiragana: だれ.","group":"句型","examples":[{"ja":"けさは何も食べませんでした。","en":"I didn't eat anything this morning.","cn":"我什么都没吃。"},{"ja":"教室にはだれもいません。","en":"There's nobody in the classroom.","cn":"教室里没有人。"},{"ja":"冷蔵庫の中には何もありません。","en":"There's nothing in the fridge.","cn":"冰箱里什么都没有。"}]},{"id":"nani-ka-dare-ka-doko-ka","jp":"何か / 誰か / どこか","meaning":"表示某个东西／某个人／某个地方","meaningEn":"something; someone; somewhere","rule":"疑问词 + か","notes":"Question word + か gives 'some-' words; question word + も + negative gives 'no-' words. が and を after 何か / だれか are often dropped.","group":"疑问","examples":[{"ja":"何か飲みますか。","en":"Would you like something to drink?","cn":"你想喝点什么吗？"},{"ja":"だれか来ましたよ。","en":"Someone's here.","cn":"有人来了。"},{"ja":"夏休みにどこかへ行きましたか。","en":"Did you go anywhere during summer vacation?","cn":"暑假期间您去过什么地方吗？"}]},{"id":"kore-sore-are-dore","jp":"これ / それ / あれ / どれ","meaning":"指示代词：这个／那个（你附近）／那个（远处）／哪一个","meaningEn":"this one; that one (near you); that one (over there); which one","rule":"これ / それ / あれ / どれ","notes":"こ = near the speaker, そ = near the listener, あ = away from both, ど = question. They stand alone; as a subject どれ takes が, not は.","group":"指示词","examples":[{"ja":"これは私の辞書です。","en":"This is my dictionary.","cn":"这是我的字典。"},{"ja":"それは何ですか。","en":"What is that?","cn":"是什么？"},{"ja":"「あなたのかさはどれですか。」「あれです。」","en":"\"Which one is your umbrella?\" \"That one over there.\"","cn":"“你的雨伞是什么？”“就是这样。”"}]},{"id":"kono-sono-ano-dono","jp":"この / その / あの / どの","meaning":"连体指示词：这个／那个／哪一个……","meaningEn":"this; that (near you); that ... over there; which (before a noun)","rule":"この / その / あの / どの + 名词","notes":"Always followed by a noun: この本, never この alone. これ / それ / あれ / どれ are used when there is no noun.","group":"指示词","examples":[{"ja":"このケーキはおいしいです。","en":"This cake is delicious.","cn":"这个蛋糕很好吃。"},{"ja":"その本はだれのですか。","en":"Whose book is that?","cn":"这是谁的书？"},{"ja":"「どの人が先生ですか。」「あの人です。」","en":"\"Which person is the teacher?\" \"That person over there.\"","cn":"“老师是谁？”“就是他。”"}]},{"id":"koko-soko-asoko-doko","jp":"ここ / そこ / あそこ / どこ","meaning":"表示地点：这里／那里（你附近）／那里／哪里","meaningEn":"here; there (near you); over there; where","rule":"ここ / そこ / あそこ / どこ","notes":"こちら / そちら / あちら / どちら are politer versions: お国はどちらですか (Where are you from?).","group":"指示词","examples":[{"ja":"ここは私の学校です。","en":"This is my school.","cn":"这是我的学校。"},{"ja":"トイレはあそこです。","en":"The restroom is over there.","cn":"厕所在那边。"},{"ja":"すみません、駅はどこですか。","en":"Excuse me, where is the station?","cn":"对不起，车站在哪里？"}]},{"id":"ku-nai-katta-ku-nakatta","jp":"〜くない / 〜かった / 〜くなかった","meaning":"い形容词的否定、过去和过去否定变化","meaningEn":"negative and past forms of i-adjectives (is not; was; was not)","rule":"い形容词 stem + くない / い形容词 stem + かった / い形容词 stem + くなかった","notes":"高い→高くない, 高かった, 高くなかった. Add です to be polite. いい is irregular: よくない, よかった, よくなかった.","group":"句型","examples":[{"ja":"この部屋はあまり広くないです。","en":"This room isn't very big.","cn":"这个房间不是很大。"},{"ja":"きのうのテストは難しかったです。","en":"Yesterday's test was difficult.","cn":"昨天的考试很难。"},{"ja":"先週見た映画はおもしろくなかったです。","en":"The movie I saw last week wasn't interesting.","cn":"我上周看的电影不太有趣。"}]},{"id":"na-na-adjective","jp":"〜な（な形容词）","meaning":"な形容词修饰名词时用な，句末接です／だ","meaningEn":"na-adjectives: take な before a noun and です or だ at the end of a sentence","rule":"な形容词 + な + 名词 / な形容词 + です / な形容词 + ではありません / な形容词 + でした","notes":"Before a noun, add な: 静かな部屋. At the end of a sentence they change like nouns. きれい and きらい end in い but are な-adjectives.","group":"句型","examples":[{"ja":"京都は有名な町です。","en":"Kyoto is a famous city.","cn":"京都是一个著名的小镇。"},{"ja":"きのうは暇でした。","en":"I was free yesterday.","cn":"昨天我有空。"},{"ja":"この部屋はあまり静かではありません。","en":"This room isn't very quiet.","cn":"这个房间不是很安静。"}]},{"id":"kute-de","jp":"〜くて / 〜で","meaning":"连接形容词或名词“……而且……”","meaningEn":"and (linking adjectives or nouns)","rule":"い形容词く形 + て / な形容词 + で / 名词 + で","notes":"いい becomes よくて. Join qualities that point the same way (both good or both bad); for a contrast, use が instead.","group":"句型","examples":[{"ja":"この店は安くておいしいです。","en":"This restaurant is cheap and good.","cn":"这家商店物美价廉。"},{"ja":"私の町は静かできれいです。","en":"My town is quiet and clean.","cn":"我的小镇安静干净。"},{"ja":"兄は大学生で、妹は高校生です。","en":"My older brother is a university student, and my younger sister is a high school student.","cn":"我哥哥是大学生，我姐姐是高中生。"}]},{"id":"to-iu-named","jp":"〜という（命名）","meaning":"表示名称“叫作……”","meaningEn":"called; named","rule":"名词 + という + 名词","notes":"Introduces a name the listener may not know.","group":"句型","examples":[{"ja":"これは「すきやき」という料理です。","en":"This is a dish called sukiyaki.","cn":"这是一道名为「sukiyaki」的菜。"},{"ja":"「さくら」という店でアルバイトをしています。","en":"I work part-time at a shop called Sakura.","cn":"我在一家名为「SAKURA」的商店兼职工作。"},{"ja":"山田さんという人から電話がありました。","en":"There was a call from someone named Yamada.","cn":"我接到一个叫山田先生的电话。"}]}]
+[
+  {
+    "id": "wa",
+    "jp": "〜は",
+    "meaning": "提示主题，相当于“至于……/……是……”",
+    "meaningEn": "as for; marks the topic of the sentence",
+    "rule": "名词 + は",
+    "notes": "Written は but pronounced 'wa'. It sets up what the sentence is about; the key information comes after it.",
+    "group": "助词",
+    "examples": [
+      {
+        "ja": "私は学生です。",
+        "en": "I am a student.",
+        "cn": "我是一名学生。"
+      },
+      {
+        "ja": "今日は天気がいいです。",
+        "en": "The weather is nice today.",
+        "cn": "今天天气很好。"
+      },
+      {
+        "ja": "この本はおもしろいです。",
+        "en": "This book is interesting.",
+        "cn": "这本书很有趣。"
+      }
+    ],
+    "notesCn": "は读wa。先指出谈论对象，再说明信息；可把对象拿来作对比。疑问词本身作主语时用が。",
+    "levelNote": "基础学习"
+  },
+  {
+    "id": "ga-subject",
+    "jp": "〜が（主语）",
+    "meaning": "标记主语；强调新信息或焦点",
+    "meaningEn": "marks the subject; points out new or focused information",
+    "rule": "名词 + が",
+    "notes": "Question words such as だれ and 何 take が, never は, when they are the subject. が is also used with 好き, ほしい, 上手 and わかる for the thing liked, wanted or understood.",
+    "group": "助词",
+    "examples": [
+      {
+        "ja": "雨が降っています。",
+        "en": "It is raining.",
+        "cn": "下雨了。"
+      },
+      {
+        "ja": "だれが窓を開けましたか。",
+        "en": "Who opened the window?",
+        "cn": "谁开的窗户？"
+      },
+      {
+        "ja": "私が行きます。",
+        "en": "I'll be the one to go.",
+        "cn": "我会去的。"
+      }
+    ],
+    "notesCn": "谁做了什么、新发现了什么，常用が。だれが来ますか→田中さんが来ます。好き、分かる等的对象也常用が。",
+    "levelNote": "基础学习"
+  },
+  {
+    "id": "o",
+    "jp": "〜を",
+    "meaning": "标记动作对象；也可标记经过或离开的地点",
+    "meaningEn": "marks the direct object of a verb; marks a place moved through or left",
+    "rule": "名词 + を",
+    "notes": "Written を but pronounced 'o'. With movement verbs such as 歩く, 散歩する and 出る it marks the route or the place being left.",
+    "group": "助词",
+    "examples": [
+      {
+        "ja": "毎朝パンを食べます。",
+        "en": "I eat bread every morning.",
+        "cn": "我每天早上都吃面包。"
+      },
+      {
+        "ja": "姉は新しいかばんを買いました。",
+        "en": "My older sister bought a new bag.",
+        "cn": "我姐姐买了一个新包。"
+      },
+      {
+        "ja": "公園を散歩しました。",
+        "en": "I took a walk in the park.",
+        "cn": "我在公园里散步。"
+      }
+    ],
+    "notesCn": "を读o。食べる、飲む、読む等动作的对象用を；公園を歩く表示经过的路线，家を出る表示离开的地点。",
+    "levelNote": "基础学习"
+  },
+  {
+    "id": "ni-time",
+    "jp": "〜に（时间）",
+    "meaning": "表示具体时间点的“在……”",
+    "meaningEn": "at; on; in (a specific point in time)",
+    "rule": "名词 + に",
+    "notes": "Used with clock times, dates, days of the week and months. Relative words such as 今日, 明日, 毎日 and 来週 take no に.",
+    "group": "助词",
+    "examples": [
+      {
+        "ja": "毎朝7時に起きます。",
+        "en": "I get up at seven every morning.",
+        "cn": "我每天早上7点起床。"
+      },
+      {
+        "ja": "日曜日に友達と会います。",
+        "en": "I'm meeting a friend on Sunday.",
+        "cn": "我周日要去见我的朋友们。"
+      },
+      {
+        "ja": "8月に国へ帰ります。",
+        "en": "I'm going back to my country in August.",
+        "cn": "我将于8月返回该国。"
+      }
+    ],
+    "notesCn": "明确的钟点和日期常加に；今日、明日、毎朝、来週等通常不加に。いつ也通常不加に。",
+    "levelNote": "基础学习"
+  },
+  {
+    "id": "ni-destination",
+    "jp": "〜に（目的地）",
+    "meaning": "表示移动的目的地“到……”",
+    "meaningEn": "to; into (the destination of movement)",
+    "rule": "名词 + に + 行く / 来る / 帰る",
+    "notes": "Close in meaning to へ. に puts the focus on the arrival point, へ on the direction.",
+    "group": "助词",
+    "examples": [
+      {
+        "ja": "毎日バスで学校に行きます。",
+        "en": "I go to school by bus every day.",
+        "cn": "我每天乘公共汽车去上学。"
+      },
+      {
+        "ja": "夜10時に家に帰りました。",
+        "en": "I got home at 10 p.m.",
+        "cn": "我晚上10点回家。"
+      },
+      {
+        "ja": "来月、姉が日本に来ます。",
+        "en": "My older sister is coming to Japan next month.",
+        "cn": "我姐姐下个月要来日本。"
+      }
+    ],
+    "notesCn": "に突出到达点，へ突出方向；学校に行きます和学校へ行きます均可。不要和动作地点で混淆。",
+    "levelNote": "基础学习"
+  },
+  {
+    "id": "ni-location",
+    "jp": "〜に（存在地点）",
+    "meaning": "表示人或物存在的位置“在……”",
+    "meaningEn": "in; at; on (where someone or something is)",
+    "rule": "名词 + に + ある / いる",
+    "notes": "Used with ある, いる and 住む. For the place where an action happens (eat, study, play), use で instead.",
+    "group": "助词",
+    "examples": [
+      {
+        "ja": "机の上に辞書があります。",
+        "en": "There is a dictionary on the desk.",
+        "cn": "书桌上有一本字典。"
+      },
+      {
+        "ja": "姉は東京に住んでいます。",
+        "en": "My older sister lives in Tokyo.",
+        "cn": "我姐姐住在东京。"
+      },
+      {
+        "ja": "猫は今どこにいますか。",
+        "en": "Where is the cat now?",
+        "cn": "猫现在在哪里？"
+      }
+    ],
+    "notesCn": "ある／いる表示存在，地点用に：部屋に机があります。询问在哪里：どこにありますか。",
+    "levelNote": "基础学习"
+  },
+  {
+    "id": "ni-indirect-object",
+    "jp": "〜に（间接宾语）",
+    "meaning": "表示动作的对象或接受者“给……”",
+    "meaningEn": "to (the person who receives or is the target of an action)",
+    "rule": "名词 + に",
+    "notes": "Common with あげる, 貸す, 教える, 見せる, 電話をかける and 会う. With もらう and 借りる, に marks the person you get something from.",
+    "group": "助词",
+    "examples": [
+      {
+        "ja": "母に手紙を書きます。",
+        "en": "I'm going to write a letter to my mother.",
+        "cn": "给我妈妈写封信。"
+      },
+      {
+        "ja": "妹に本を貸しました。",
+        "en": "I lent a book to my younger sister.",
+        "cn": "我借给妹妹一本书。"
+      },
+      {
+        "ja": "友達に電話をかけました。",
+        "en": "I called my friend.",
+        "cn": "我打电话给我的朋友。"
+      }
+    ],
+    "notesCn": "接收者或动作指向的人用に：友達に本を貸します。会う常说友達に会います，也可用と表示相互见面。",
+    "levelNote": "基础学习"
+  },
+  {
+    "id": "ni-frequency",
+    "jp": "〜に（频率）",
+    "meaning": "表示频率单位，相当于“每……”",
+    "meaningEn": "per; in (how many times within a period)",
+    "rule": "名词 + に + 名词",
+    "notes": "The period comes first, then に, then the number of times: 月に一回 (once a month).",
+    "group": "助词",
+    "examples": [
+      {
+        "ja": "一週間に二回、プールで泳ぎます。",
+        "en": "I swim in the pool twice a week.",
+        "cn": "每周两次在泳池中游泳。"
+      },
+      {
+        "ja": "母は一日に二回、犬の散歩をします。",
+        "en": "My mother walks the dog twice a day.",
+        "cn": "我妈妈每天遛狗两次。"
+      },
+      {
+        "ja": "一年に一度、家族で旅行します。",
+        "en": "Once a year, my family goes on a trip.",
+        "cn": "我每年和家人一起旅行一次。"
+      }
+    ],
+    "notesCn": "一週間に三回表示“一周三次”。前项是作为计量单位的时段，后项是次数或数量。",
+    "levelNote": "基础学习"
+  },
+  {
+    "id": "e",
+    "jp": "〜へ",
+    "meaning": "表示移动方向“向／往……”",
+    "meaningEn": "to; toward (the direction of movement)",
+    "rule": "名词 + へ",
+    "notes": "Written へ but pronounced 'e'. Usually interchangeable with に for destinations; へ stresses the direction a little more.",
+    "group": "助词",
+    "examples": [
+      {
+        "ja": "夏休みに北海道へ行きます。",
+        "en": "I'm going to Hokkaido during summer vacation.",
+        "cn": "我要去北海道度暑假。"
+      },
+      {
+        "ja": "来週、国へ帰ります。",
+        "en": "I'm going back to my home country next week.",
+        "cn": "我下周要回国。"
+      },
+      {
+        "ja": "どこへ行きますか。",
+        "en": "Where are you going?",
+        "cn": "你要去哪里？"
+      }
+    ],
+    "notesCn": "助词へ读e，不读he。日本へ行きます。单纯表示在某处做某事，仍然用で。",
+    "levelNote": "基础学习"
+  },
+  {
+    "id": "de-place",
+    "jp": "〜で（动作地点）",
+    "meaning": "表示动作发生的场所“在……”",
+    "meaningEn": "at; in (the place where an action happens)",
+    "rule": "名词 + で",
+    "notes": "Compare 教室にいます (being somewhere: に) with 教室で勉強します (doing something there: で).",
+    "group": "助词",
+    "examples": [
+      {
+        "ja": "図書館で本を読みます。",
+        "en": "I read books at the library.",
+        "cn": "在图书馆里读一本书。"
+      },
+      {
+        "ja": "きのう、デパートでくつを買いました。",
+        "en": "Yesterday I bought shoes at the department store.",
+        "cn": "昨天，我在一家百货公司买了一双鞋。"
+      },
+      {
+        "ja": "駅の前で友達を待ちました。",
+        "en": "I waited for my friend in front of the station.",
+        "cn": "我在车站前等我的朋友。"
+      }
+    ],
+    "notesCn": "动作发生地用で：図書館で勉強します。存在地点用に：図書館にいます。住む通常也用に。",
+    "levelNote": "基础学习"
+  },
+  {
+    "id": "de-means",
+    "jp": "〜で（手段）",
+    "meaning": "表示手段、工具、方法或语言“用／通过……”",
+    "meaningEn": "by; with; in (means, tool, method or language)",
+    "rule": "名词 + で",
+    "notes": "To say 'on foot', use 歩いて行きます rather than で.",
+    "group": "助词",
+    "examples": [
+      {
+        "ja": "毎日電車で会社へ行きます。",
+        "en": "I go to work by train every day.",
+        "cn": "我每天乘火车上班。"
+      },
+      {
+        "ja": "はしでご飯を食べます。",
+        "en": "I eat my meals with chopsticks.",
+        "cn": "我用筷子吃饭。"
+      },
+      {
+        "ja": "日本語で手紙を書きました。",
+        "en": "I wrote a letter in Japanese.",
+        "cn": "我用日语写了一封信。"
+      }
+    ],
+    "notesCn": "バスで、箸で、日本語で分别表示交通工具、工具和语言。步行用歩いて，不说歩きで。",
+    "levelNote": "基础学习"
+  },
+  {
+    "id": "to-and",
+    "jp": "〜と（并列）",
+    "meaning": "连接名词列举全部项目“和……”",
+    "meaningEn": "and (joining nouns in a complete list)",
+    "rule": "名词 + と + 名词",
+    "notes": "と lists every item; to give just some examples, use や. It joins nouns only, not verbs or adjectives.",
+    "group": "助词",
+    "examples": [
+      {
+        "ja": "かばんの中にペンとノートがあります。",
+        "en": "There is a pen and a notebook in my bag.",
+        "cn": "包里有一支笔和笔记本。"
+      },
+      {
+        "ja": "朝ご飯にパンとたまごを食べました。",
+        "en": "I had bread and eggs for breakfast.",
+        "cn": "我早餐吃了面包和鸡蛋。"
+      },
+      {
+        "ja": "父と母は銀行で働いています。",
+        "en": "My father and mother work at a bank.",
+        "cn": "我的父亲和母亲在银行工作。"
+      }
+    ],
+    "notesCn": "と连接名词，通常穷尽列举：パンと卵。不能直接把两个完整句子用这个と并列。",
+    "levelNote": "基础学习"
+  },
+  {
+    "id": "to-with",
+    "jp": "〜と（共同）",
+    "meaning": "表示共同动作的伙伴“和……一起”",
+    "meaningEn": "with; together with (a partner in an action)",
+    "rule": "名词 + と",
+    "notes": "Often followed by いっしょに. With verbs like 話す, 会う and 結婚する, と marks the other person.",
+    "group": "助词",
+    "examples": [
+      {
+        "ja": "週末、友達と映画を見ました。",
+        "en": "I saw a movie with a friend on the weekend.",
+        "cn": "周末我和朋友看了一部电影。"
+      },
+      {
+        "ja": "妹といっしょに買い物に行きます。",
+        "en": "I'm going shopping with my younger sister.",
+        "cn": "我和妹妹一起去购物。"
+      },
+      {
+        "ja": "だれと昼ご飯を食べましたか。",
+        "en": "Who did you have lunch with?",
+        "cn": "您和谁共进午餐？"
+      }
+    ],
+    "notesCn": "友達と映画を見ます表示和朋友一起看电影。一人で表示独自做，不用と。",
+    "levelNote": "基础学习"
+  },
+  {
+    "id": "ya",
+    "jp": "〜や",
+    "meaning": "列举部分项目“……呀……等等”",
+    "meaningEn": "and (giving some examples out of more); ... and so on",
+    "rule": "名词 + や + 名词",
+    "notes": "Suggests the list is not complete. Often ends with など: 本や雑誌など.",
+    "group": "助词",
+    "examples": [
+      {
+        "ja": "机の上に本や雑誌があります。",
+        "en": "On the desk there are books, magazines and so on.",
+        "cn": "书桌上有书籍和杂志。"
+      },
+      {
+        "ja": "スーパーで肉や野菜を買いました。",
+        "en": "I bought meat, vegetables and other things at the supermarket.",
+        "cn": "我在超市买了肉和蔬菜。"
+      }
+    ],
+    "notesCn": "や表示举例而非全部：机の上に本やノートがあります。可用など暗示还有其他项目。",
+    "levelNote": "基础学习"
+  },
+  {
+    "id": "ka-or",
+    "jp": "〜か（选择）",
+    "meaning": "在名词选项间表示“或者”",
+    "meaningEn": "or (a choice between nouns)",
+    "rule": "名词 + か + 名词",
+    "notes": "Means one of the items is chosen. To list items together, use と or や.",
+    "group": "助词",
+    "examples": [
+      {
+        "ja": "飲み物はコーヒーか紅茶がいいです。",
+        "en": "For a drink, coffee or tea would be good.",
+        "cn": "我更喜欢咖啡或茶。"
+      },
+      {
+        "ja": "土曜日か日曜日に買い物に行きます。",
+        "en": "I'll go shopping on Saturday or Sunday.",
+        "cn": "我周六或周日去购物。"
+      },
+      {
+        "ja": "駅までバスかタクシーで行きます。",
+        "en": "I'll go to the station by bus or taxi.",
+        "cn": "乘坐巴士或出租车前往车站。"
+      }
+    ],
+    "notesCn": "コーヒーかお茶表示咖啡或茶；与句末疑问か的位置不同。",
+    "levelNote": "基础学习"
+  },
+  {
+    "id": "mo",
+    "jp": "〜も",
+    "meaning": "表示“也”；用于否定时表示“也不”",
+    "meaningEn": "also; too; (with a negative) not ... either; neither ... nor",
+    "rule": "名词 + も",
+    "notes": "も replaces は, が and を, but comes after other particles: 京都にも行きました.",
+    "group": "助词",
+    "examples": [
+      {
+        "ja": "私も学生です。",
+        "en": "I'm a student too.",
+        "cn": "我也是一名学生。"
+      },
+      {
+        "ja": "兄はサッカーも好きです。",
+        "en": "My older brother likes soccer too.",
+        "cn": "我哥哥也喜欢足球。"
+      },
+      {
+        "ja": "肉も魚も食べません。",
+        "en": "I eat neither meat nor fish.",
+        "cn": "我不吃肉或鱼。"
+      }
+    ],
+    "notesCn": "も可替换主题は或宾语を：私も学生です。に、で等后保留原助词：学校にも行きます。",
+    "levelNote": "基础学习"
+  },
+  {
+    "id": "no",
+    "jp": "〜の（所属）",
+    "meaning": "表示所属、归属或修饰关系“的”",
+    "meaningEn": "'s; of (possession, belonging or description)",
+    "rule": "名词 + の + 名词",
+    "notes": "The first noun describes the second: 日本の車 (a Japanese car). The second noun can be dropped when clear: それは私のです.",
+    "group": "助词",
+    "examples": [
+      {
+        "ja": "これは私のかさです。",
+        "en": "This is my umbrella.",
+        "cn": "这是我的雨伞。"
+      },
+      {
+        "ja": "日本語の先生はとてもやさしいです。",
+        "en": "The Japanese teacher is very kind.",
+        "cn": "日语老师非常友善。"
+      },
+      {
+        "ja": "駅の近くに新しい店があります。",
+        "en": "There is a new shop near the station.",
+        "cn": "车站附近有一家新商店。"
+      }
+    ],
+    "notesCn": "私の本表示所属；日本語の先生表示修饰；これは私のです中の代替前文明确的名词。",
+    "levelNote": "基础学习"
+  },
+  {
+    "id": "kara-from",
+    "jp": "〜から（起点）",
+    "meaning": "表示起点“从……”",
+    "meaningEn": "from (a starting point in time or place)",
+    "rule": "名词 + から",
+    "notes": "Often paired with まで: 月曜日から金曜日まで (from Monday to Friday).",
+    "group": "助词",
+    "examples": [
+      {
+        "ja": "授業は9時からです。",
+        "en": "Class starts at nine.",
+        "cn": "9点开始上课。"
+      },
+      {
+        "ja": "学校から駅まで歩きます。",
+        "en": "I walk from school to the station.",
+        "cn": "从学校步行到车站。"
+      },
+      {
+        "ja": "私はブラジルから来ました。",
+        "en": "I'm from Brazil.",
+        "cn": "我来自巴西。"
+      }
+    ],
+    "notesCn": "表示时间、地点起点：九時から、東京から。只有起点也可单独使用，不必一定配まで。",
+    "levelNote": "基础学习"
+  },
+  {
+    "id": "made",
+    "jp": "〜まで（终点）",
+    "meaning": "表示终点“到……为止”",
+    "meaningEn": "until; up to; as far as",
+    "rule": "名词 + まで",
+    "notes": "Marks the end point of something that continues. For a deadline ('by'), use までに (N4).",
+    "group": "助词",
+    "examples": [
+      {
+        "ja": "昼休みは1時までです。",
+        "en": "Lunch break is until one o'clock.",
+        "cn": "午餐休息时间为1点前。"
+      },
+      {
+        "ja": "駅までいっしょに行きましょう。",
+        "en": "Let's go together as far as the station.",
+        "cn": "我们一起去车站吧。"
+      },
+      {
+        "ja": "きのうは夜11時まで勉強しました。",
+        "en": "Yesterday I studied until 11 p.m.",
+        "cn": "昨天，我学习到晚上11点。"
+      }
+    ],
+    "notesCn": "持续到终点：五時まで働きます。截止期限的までに是进一步学习项目，不要混为持续时间。",
+    "levelNote": "基础学习"
+  },
+  {
+    "id": "ka-question",
+    "jp": "〜か（疑问）",
+    "meaning": "句末疑问助词“吗”",
+    "meaningEn": "(question marker) turns a sentence into a question",
+    "rule": "句子 + か",
+    "notes": "Polite questions end in か and are usually written with 。. In casual speech か is normally dropped and rising intonation is used instead.",
+    "group": "助词",
+    "examples": [
+      {
+        "ja": "これはあなたのかばんですか。",
+        "en": "Is this your bag?",
+        "cn": "这是你的包吗？"
+      },
+      {
+        "ja": "朝ご飯を食べましたか。",
+        "en": "Did you eat breakfast?",
+        "cn": "您吃过早餐吗？"
+      },
+      {
+        "ja": "トイレはどこですか。",
+        "en": "Where is the restroom?",
+        "cn": "厕所在哪里？"
+      }
+    ],
+    "notesCn": "礼貌体句末加か构成疑问。疑问句通常不再加中文问句词的日语对应词。",
+    "levelNote": "基础学习"
+  },
+  {
+    "id": "ne",
+    "jp": "〜ね",
+    "meaning": "征求认同或共鸣“呢／对吧”",
+    "meaningEn": "isn't it?; right? (seeking agreement or sharing a feeling)",
+    "rule": "句子 + ね",
+    "notes": "Used when the speaker expects the listener to share the same view or knowledge. Compare よ, which tells the listener something new.",
+    "group": "助词",
+    "examples": [
+      {
+        "ja": "今日は暑いですね。",
+        "en": "It's hot today, isn't it?",
+        "cn": "今天很热，不是吗？"
+      },
+      {
+        "ja": "このケーキ、おいしいですね。",
+        "en": "This cake is delicious, isn't it?",
+        "cn": "这个蛋糕很好吃。"
+      },
+      {
+        "ja": "明日のテストは10時からですね。",
+        "en": "Tomorrow's test starts at ten, right?",
+        "cn": "明天的测试是从10点开始的。"
+      }
+    ],
+    "notesCn": "期待对方同意、确认双方共有的信息：今日は暑いですね。语气自然上扬或柔和下降。",
+    "levelNote": "基础学习"
+  },
+  {
+    "id": "yo",
+    "jp": "〜よ",
+    "meaning": "提示新信息或加强语气“哦／呀”",
+    "meaningEn": "you know; I tell you (giving new information or emphasis)",
+    "rule": "句子 + よ",
+    "notes": "Tells the listener something they may not know. Overusing it with superiors can sound pushy.",
+    "group": "助词",
+    "examples": [
+      {
+        "ja": "このラーメンはとてもおいしいですよ。",
+        "en": "This ramen is really good, you know.",
+        "cn": "这道拉面非常美味。"
+      },
+      {
+        "ja": "かさを忘れていますよ。",
+        "en": "You're forgetting your umbrella.",
+        "cn": "我忘带雨伞了。"
+      },
+      {
+        "ja": "明日はテストがありますよ。",
+        "en": "There's a test tomorrow, you know.",
+        "cn": "我们明天有一个测试。"
+      }
+    ],
+    "notesCn": "告诉对方不知道的信息或提醒：電車が来ますよ。过度使用可能显得强硬。",
+    "levelNote": "基础学习"
+  },
+  {
+    "id": "yori",
+    "jp": "〜より",
+    "meaning": "比较基准“比……”",
+    "meaningEn": "than (the standard of comparison)",
+    "rule": "名词 + より",
+    "notes": "In X は Y より + adjective, Y is the standard. Japanese adjectives have no '-er' form; より does that job.",
+    "group": "助词",
+    "examples": [
+      {
+        "ja": "今日はきのうより寒いです。",
+        "en": "Today is colder than yesterday.",
+        "cn": "今天比昨天冷。"
+      },
+      {
+        "ja": "電車はバスより速いです。",
+        "en": "Trains are faster than buses.",
+        "cn": "火车比巴士快。"
+      },
+      {
+        "ja": "兄は父より背が高いです。",
+        "en": "My older brother is taller than my father.",
+        "cn": "我弟弟比我父亲高。"
+      }
+    ],
+    "notesCn": "AはBより大きい中，B是比较基准。否定或形容词变化按句尾正常处理。",
+    "levelNote": "基础学习"
+  },
+  {
+    "id": "no-hou-ga-yori",
+    "jp": "〜の方が〜より",
+    "meaning": "比较两者：A比B更……",
+    "meaningEn": "X is more ... than Y",
+    "rule": "名词 + の方が + 名词 + より",
+    "notes": "The two parts can come in either order. Often used to answer a どちら question.",
+    "group": "比较",
+    "examples": [
+      {
+        "ja": "犬の方が猫より好きです。",
+        "en": "I like dogs more than cats.",
+        "cn": "与猫相比，我更喜欢狗。"
+      },
+      {
+        "ja": "東京の方が大阪より人が多いです。",
+        "en": "Tokyo has more people than Osaka.",
+        "cn": "东京的人口比大阪还多。"
+      },
+      {
+        "ja": "夏より冬の方が好きです。",
+        "en": "I like winter better than summer.",
+        "cn": "与夏天相比，我更喜欢冬天。"
+      }
+    ],
+    "notesCn": "Aの方がBより安い表示A更便宜。方读ほう；回答比较问句常省略已知的Bより。",
+    "levelNote": "基础学习"
+  },
+  {
+    "id": "to-to-dochira-ga",
+    "jp": "〜と〜とどちらが",
+    "meaning": "询问两者中哪一个更……",
+    "meaningEn": "which is more ..., X or Y?",
+    "rule": "名词 + と + 名词 + とどちらが",
+    "notes": "Compares exactly two things. どっち is the casual form of どちら. Answer with 〜の方が.",
+    "group": "比较",
+    "examples": [
+      {
+        "ja": "コーヒーと紅茶とどちらが好きですか。",
+        "en": "Which do you like better, coffee or tea?",
+        "cn": "您更喜欢咖啡还是茶？"
+      },
+      {
+        "ja": "電車とバスとどちらが安いですか。",
+        "en": "Which is cheaper, the train or the bus?",
+        "cn": "火车和公共汽车哪个更便宜？"
+      },
+      {
+        "ja": "「山と海とどちらがいいですか。」「海の方がいいです。」",
+        "en": "\"Which is better, the mountains or the sea?\" \"The sea is better.\"",
+        "cn": "“山还是海，哪个更好？”“大海更好。”"
+      }
+    ],
+    "notesCn": "两项比较用どちら；三项以上问哪个最……常用どれ／何／だれ＋が一番。",
+    "levelNote": "基础学习"
+  },
+  {
+    "id": "no-naka-de-ga-ichiban",
+    "jp": "〜の中で〜が一番",
+    "meaning": "在范围中表示“最……”",
+    "meaningEn": "... is the most ... among/of",
+    "rule": "名词 + の中で + 名词 + が一番",
+    "notes": "Used for three or more items. In questions use 何, だれ, どこ or いつ before が一番.",
+    "group": "比较",
+    "examples": [
+      {
+        "ja": "果物の中でりんごが一番好きです。",
+        "en": "Of all fruits, I like apples the most.",
+        "cn": "我最喜欢苹果，最喜欢水果。"
+      },
+      {
+        "ja": "クラスの中でだれが一番背が高いですか。",
+        "en": "Who is the tallest in the class?",
+        "cn": "谁是班上最高的人？"
+      },
+      {
+        "ja": "家族の中で父が一番早く起きます。",
+        "en": "In my family, my father gets up the earliest.",
+        "cn": "我父亲在家里醒得最早。"
+      }
+    ],
+    "notesCn": "范围＋の中で＋对象＋が一番＋形容词。动物问何、人物问だれ，按对象选疑问词。",
+    "levelNote": "基础学习"
+  },
+  {
+    "id": "desu",
+    "jp": "〜です",
+    "meaning": "礼貌判断句的系词“是……”",
+    "meaningEn": "is; am; are (polite copula)",
+    "rule": "名词 + です / な形容词 + です / い形容词 + です",
+    "notes": "Forms: です, ではありません, でした, ではありませんでした. After an い-adjective, です only adds politeness: 高いです.",
+    "group": "判断句",
+    "examples": [
+      {
+        "ja": "私はマリアです。",
+        "en": "I'm Maria.",
+        "cn": "我叫Maria。"
+      },
+      {
+        "ja": "今日は月曜日です。",
+        "en": "Today is Monday.",
+        "cn": "今天是星期一。"
+      },
+      {
+        "ja": "この部屋はとても静かです。",
+        "en": "This room is very quiet.",
+        "cn": "这个房间非常安静。"
+      }
+    ],
+    "notesCn": "名词和な形容词可直接接です；い形容词接です只增加礼貌性。おいしいです正确，おいしいだ错误。",
+    "levelNote": "基础学习"
+  },
+  {
+    "id": "da",
+    "jp": "〜だ",
+    "meaning": "普通体判断句“是……”",
+    "meaningEn": "is; am; are (plain copula)",
+    "rule": "名词 + だ / な形容词 + だ",
+    "notes": "Forms: だ, じゃない, だった, じゃなかった. Never used right after an い-adjective (高いだ is wrong). Often dropped in casual questions: 学生？",
+    "group": "判断句",
+    "examples": [
+      {
+        "ja": "今日は日曜日だ。",
+        "en": "Today is Sunday.",
+        "cn": "今天是星期天。"
+      },
+      {
+        "ja": "あの人は私の兄だ。",
+        "en": "That person is my older brother.",
+        "cn": "他是我弟弟。"
+      },
+      {
+        "ja": "明日は休みだから、ゆっくり寝る。",
+        "en": "Tomorrow is a day off, so I'll sleep in.",
+        "cn": "明天是休息日，所以我会慢慢睡觉。"
+      }
+    ],
+    "notesCn": "だ用于名词、な形容词的普通体判断。い形容词本身可以结句；普通体也不加だ。",
+    "levelNote": "基础学习"
+  },
+  {
+    "id": "de-wa-arimasen-ja-nai",
+    "jp": "〜ではありません / 〜じゃない",
+    "meaning": "礼貌或普通体否定判断“不是……”",
+    "meaningEn": "is not; am not; are not",
+    "rule": "名词 + ではありません / な形容词 + ではありません / 名词 + じゃない / な形容词 + じゃない",
+    "notes": "じゃありません and じゃないです are more conversational polite forms. Past: ではありませんでした / じゃなかった. い-adjectives use 〜くない instead.",
+    "group": "判断句",
+    "examples": [
+      {
+        "ja": "私は先生ではありません。学生です。",
+        "en": "I'm not a teacher. I'm a student.",
+        "cn": "我不是老师。我是一名学生。"
+      },
+      {
+        "ja": "今日は休みじゃない。",
+        "en": "Today isn't a day off.",
+        "cn": "我不会休息一天。"
+      },
+      {
+        "ja": "この町はあまりにぎやかではありません。",
+        "en": "This town isn't very lively.",
+        "cn": "这个城镇不能太繁忙。"
+      }
+    ],
+    "notesCn": "名词、な形容词否定用ではありません／じゃありません，普通体用ではない／じゃない。い形容词用くない。",
+    "levelNote": "基础学习"
+  },
+  {
+    "id": "deshita",
+    "jp": "〜でした",
+    "meaning": "礼貌体过去判断“曾是／当时是……”",
+    "meaningEn": "was; were (polite past copula)",
+    "rule": "名词 + でした / な形容词 + でした",
+    "notes": "Past negative: ではありませんでした. い-adjectives do not take でした: say 高かったです, not 高いでした.",
+    "group": "判断句",
+    "examples": [
+      {
+        "ja": "きのうは私の誕生日でした。",
+        "en": "Yesterday was my birthday.",
+        "cn": "昨天是我的生日。"
+      },
+      {
+        "ja": "子どものころ、野菜がきらいでした。",
+        "en": "When I was a child, I didn't like vegetables.",
+        "cn": "小时候，我不喜欢吃蔬菜。"
+      },
+      {
+        "ja": "テストはかんたんでした。",
+        "en": "The test was easy.",
+        "cn": "测试很简单。"
+      }
+    ],
+    "notesCn": "名词／な形容词的过去礼貌式。过去否定为ではありませんでした。い形容词过去用かったです。",
+    "levelNote": "基础学习"
+  },
+  {
+    "id": "masu",
+    "jp": "〜ます",
+    "meaning": "礼貌体非过去动词（做／将做）",
+    "meaningEn": "polite non-past verb ending (do; will do)",
+    "rule": "动词ます形词干 + ます",
+    "notes": "Covers habits and future actions. 飲む→飲みます, 食べる→食べます, する→します, 来る→来ます.",
+    "group": "句型",
+    "examples": [
+      {
+        "ja": "毎朝コーヒーを飲みます。",
+        "en": "I drink coffee every morning.",
+        "cn": "我每天早上都喝咖啡。"
+      },
+      {
+        "ja": "明日、京都へ行きます。",
+        "en": "I'm going to Kyoto tomorrow.",
+        "cn": "我明天要去京都。"
+      },
+      {
+        "ja": "弟は毎晩9時に寝ます。",
+        "en": "My younger brother goes to bed at nine every night.",
+        "cn": "我哥哥每天晚上9点上床睡觉。"
+      }
+    ],
+    "notesCn": "一类动词词尾う段→い段＋ます；二类去る＋ます；する→します，来る→来ます（きます）。",
+    "levelNote": "基础学习"
+  },
+  {
+    "id": "masen",
+    "jp": "〜ません",
+    "meaning": "礼貌体否定（不做／将不做）",
+    "meaningEn": "do not; will not (polite negative)",
+    "rule": "动词ます形词干 + ません",
+    "notes": "The plain equivalent is the ない-form: 飲みません = 飲まない.",
+    "group": "句型",
+    "examples": [
+      {
+        "ja": "私はお酒を飲みません。",
+        "en": "I don't drink alcohol.",
+        "cn": "我不喝酒。"
+      },
+      {
+        "ja": "日曜日は学校へ行きません。",
+        "en": "I don't go to school on Sundays.",
+        "cn": "我星期天不上学。"
+      },
+      {
+        "ja": "今晩はテレビを見ません。",
+        "en": "I won't watch TV tonight.",
+        "cn": "我今晚不看电视。"
+      }
+    ],
+    "notesCn": "ます换成ません。表示非过去否定，包括日常习惯和将来不做。过去没做要用ませんでした。",
+    "levelNote": "基础学习"
+  },
+  {
+    "id": "mashita",
+    "jp": "〜ました",
+    "meaning": "礼貌体过去（做了）",
+    "meaningEn": "did (polite past)",
+    "rule": "动词ます形词干 + ました",
+    "notes": "The plain equivalent is the た-form: 会いました = 会った.",
+    "group": "句型",
+    "examples": [
+      {
+        "ja": "きのう、友達に会いました。",
+        "en": "I met a friend yesterday.",
+        "cn": "昨天，我遇到了一个朋友。"
+      },
+      {
+        "ja": "先週、新しいくつを買いました。",
+        "en": "I bought new shoes last week.",
+        "cn": "我上周买了一些新的。"
+      },
+      {
+        "ja": "けさ、6時に起きました。",
+        "en": "I got up at six this morning.",
+        "cn": "嗯，我六点就起床了。"
+      }
+    ],
+    "notesCn": "ます换成ました，说明已经发生的动作。食べました与食べた意思接近，礼貌程度不同。",
+    "levelNote": "基础学习"
+  },
+  {
+    "id": "masen-deshita",
+    "jp": "〜ませんでした",
+    "meaning": "礼貌体过去否定（没做）",
+    "meaningEn": "did not (polite past negative)",
+    "rule": "动词ます形词干 + ませんでした",
+    "notes": "The plain equivalent is 〜なかった: 食べませんでした = 食べなかった.",
+    "group": "句型",
+    "examples": [
+      {
+        "ja": "けさは朝ご飯を食べませんでした。",
+        "en": "I didn't eat breakfast this morning.",
+        "cn": "Kesa没有吃早餐。"
+      },
+      {
+        "ja": "週末は宿題をしませんでした。",
+        "en": "I didn't do my homework over the weekend.",
+        "cn": "我周末没做作业。"
+      },
+      {
+        "ja": "きのうは雨でしたから、出かけませんでした。",
+        "en": "It rained yesterday, so I didn't go out.",
+        "cn": "昨天下雨了，所以我没有出去。"
+      }
+    ],
+    "notesCn": "ます换成ませんでした。きのう勉強しませんでした。不要把过去否定写成ませんでしたです。",
+    "levelNote": "基础学习"
+  },
+  {
+    "id": "nai",
+    "jp": "〜ない",
+    "meaning": "动词普通体否定（不做／将不做）",
+    "meaningEn": "do not; will not (plain negative of verbs)",
+    "rule": "动词ない形词干 + ない",
+    "notes": "う-verbs change the last -u sound to -a: 書く→書かない, 買う→買わない. る-verbs drop る: 食べない. する→しない, 来る→こない, ある→ない. Past: 〜なかった.",
+    "group": "句型",
+    "examples": [
+      {
+        "ja": "今日は学校へ行かない。",
+        "en": "I'm not going to school today.",
+        "cn": "我今天不去上学了。"
+      },
+      {
+        "ja": "兄は肉を食べない。",
+        "en": "My older brother doesn't eat meat.",
+        "cn": "我弟弟不吃肉。"
+      },
+      {
+        "ja": "「コーヒー、飲む？」「ううん、飲まない。」",
+        "en": "\"Are you having coffee?\" \"No, I'm not.\"",
+        "cn": "“要喝咖啡吗？”“不，我不喝酒。”"
+      }
+    ],
+    "notesCn": "一类う段→あ段＋ない，う→わない；二类去る＋ない。する→しない、来る→こない、ある→ない。",
+    "levelNote": "基础学习"
+  },
+  {
+    "id": "ta",
+    "jp": "〜た",
+    "meaning": "动词普通体过去（做了）",
+    "meaningEn": "did (plain past of verbs)",
+    "rule": "动词た形",
+    "notes": "Made exactly like the て-form, with て→た and で→だ: 書いて→書いた, 飲んで→飲んだ, 行って→行った. Polite equivalent: 〜ました.",
+    "group": "句型",
+    "examples": [
+      {
+        "ja": "週末は家で映画を見た。",
+        "en": "I watched a movie at home over the weekend.",
+        "cn": "周末我在家看了一部电影。"
+      },
+      {
+        "ja": "駅で先生に会った。",
+        "en": "I ran into my teacher at the station.",
+        "cn": "我在车站遇到了老师。"
+      },
+      {
+        "ja": "「昼ご飯、食べた？」「うん、もう食べた。」",
+        "en": "\"Did you eat lunch?\" \"Yeah, I already ate.\"",
+        "cn": "“你吃过午饭了吗？”“是啊，我已经吃过了。”"
+      }
+    ],
+    "notesCn": "变化和て形相同，只把て／で换成た／だ。行く例外为行った，不是行いた。",
+    "levelNote": "基础学习"
+  },
+  {
+    "id": "mashou",
+    "jp": "〜ましょう",
+    "meaning": "提议一起做“我们来……”",
+    "meaningEn": "let's (do)",
+    "rule": "动词ます形词干 + ましょう",
+    "notes": "Used when the speaker expects the listener to agree. To invite more gently, use 〜ませんか.",
+    "group": "句型",
+    "examples": [
+      {
+        "ja": "いっしょに行きましょう。",
+        "en": "Let's go together.",
+        "cn": "我们一起去吧。"
+      },
+      {
+        "ja": "少し休みましょう。",
+        "en": "Let's take a short break.",
+        "cn": "我们休息一下吧。"
+      },
+      {
+        "ja": "駅の前で会いましょう。",
+        "en": "Let's meet in front of the station.",
+        "cn": "我会在车站前与您见面。"
+      }
+    ],
+    "notesCn": "提议共同做事：一緒に帰りましょう。比ませんか更直接，礼貌程度需结合场景。",
+    "levelNote": "基础学习"
+  },
+  {
+    "id": "mashou-ka",
+    "jp": "〜ましょうか",
+    "meaning": "提议或主动询问“要我／我们……吗？”",
+    "meaningEn": "shall I ...?; shall we ...?",
+    "rule": "动词ます形词干 + ましょうか",
+    "notes": "Offers to do something for the listener (shall I?) or asks them to decide something together (shall we?).",
+    "group": "句型",
+    "examples": [
+      {
+        "ja": "窓を開けましょうか。",
+        "en": "Shall I open the window?",
+        "cn": "要我打开窗户吗？"
+      },
+      {
+        "ja": "荷物を持ちましょうか。",
+        "en": "Shall I carry your bags?",
+        "cn": "要我帮你拿行李吗？"
+      },
+      {
+        "ja": "何時に会いましょうか。",
+        "en": "What time shall we meet?",
+        "cn": "我们应该什么时候见面？"
+      }
+    ],
+    "notesCn": "主动提供帮助：荷物を持ちましょうか；也可以询问共同提议：何を食べましょうか。",
+    "levelNote": "基础学习"
+  },
+  {
+    "id": "masen-ka",
+    "jp": "〜ませんか",
+    "meaning": "礼貌邀请“要不要一起……？”",
+    "meaningEn": "won't you ...?; would you like to ...? (polite invitation)",
+    "rule": "动词ます形词干 + ませんか",
+    "notes": "Gentler than 〜ましょう because it leaves the listener room to decline. Accept with ええ、〜ましょう.",
+    "group": "句型",
+    "examples": [
+      {
+        "ja": "いっしょに昼ご飯を食べませんか。",
+        "en": "Would you like to have lunch together?",
+        "cn": "我们不如一起吃午饭吧？"
+      },
+      {
+        "ja": "日曜日にテニスをしませんか。",
+        "en": "Would you like to play tennis on Sunday?",
+        "cn": "你为什么不在周日打网球？"
+      },
+      {
+        "ja": "明日、公園を散歩しませんか。",
+        "en": "How about a walk in the park tomorrow?",
+        "cn": "你明天去公园散散步怎么样？"
+      }
+    ],
+    "notesCn": "否定疑问形式用于邀请。いっしょに映画を見ませんか。并不是简单否定“你不看吗”的机械翻译。",
+    "levelNote": "基础学习"
+  },
+  {
+    "id": "tai",
+    "jp": "〜たい",
+    "meaning": "表示想做某事",
+    "meaningEn": "want to (do)",
+    "rule": "动词ます形词干 + たい",
+    "notes": "Conjugates like an い-adjective: 〜たくない, 〜たかった. The object can take が or を. Not used to state another person's wishes directly.",
+    "group": "愿望",
+    "examples": [
+      {
+        "ja": "夏休みに沖縄へ行きたいです。",
+        "en": "I want to go to Okinawa during summer vacation.",
+        "cn": "我想在暑假期间去冲绳。"
+      },
+      {
+        "ja": "冷たい水が飲みたいです。",
+        "en": "I want to drink some cold water.",
+        "cn": "我想喝冷水。"
+      },
+      {
+        "ja": "何が食べたいですか。",
+        "en": "What do you want to eat?",
+        "cn": "您想吃什么？"
+      }
+    ],
+    "notesCn": "ます形去ます＋たい，按い形容词活用：食べたくない／食べたかった。通常直接表达自己愿望。",
+    "levelNote": "基础学习"
+  },
+  {
+    "id": "ga-hoshii",
+    "jp": "〜がほしい",
+    "meaning": "表示想要某物",
+    "meaningEn": "want (something)",
+    "rule": "名词 + がほしい",
+    "notes": "For things, not actions (actions use 〜たい). Conjugates like an い-adjective: ほしくない, ほしかった.",
+    "group": "愿望",
+    "examples": [
+      {
+        "ja": "新しいパソコンがほしいです。",
+        "en": "I want a new computer.",
+        "cn": "我想要一台新电脑。"
+      },
+      {
+        "ja": "誕生日に何がほしいですか。",
+        "en": "What do you want for your birthday?",
+        "cn": "你想要什么生日礼物？"
+      },
+      {
+        "ja": "今は何もほしくないです。",
+        "en": "I don't want anything right now.",
+        "cn": "我现在什么都不想要。"
+      }
+    ],
+    "notesCn": "名词＋がほしい表达想要物品；ほしい是い形容词，可变ほしくない。想做某事用たい。",
+    "levelNote": "基础学习"
+  },
+  {
+    "id": "o-kudasai",
+    "jp": "〜をください",
+    "meaning": "请求给我某物；点餐时表示“请来……”",
+    "meaningEn": "please give me (something); I'll have",
+    "rule": "名词 + をください",
+    "notes": "Used when shopping or ordering. A quantity goes after を with no particle: 切手を二枚ください.",
+    "group": "请求许可",
+    "examples": [
+      {
+        "ja": "すみません、水をください。",
+        "en": "Excuse me, could I have some water?",
+        "cn": "对不起，请给我水。"
+      },
+      {
+        "ja": "このりんごを三つください。",
+        "en": "I'll take three of these apples, please.",
+        "cn": "请给我三个苹果。"
+      },
+      {
+        "ja": "メニューをください。",
+        "en": "Could I have the menu, please?",
+        "cn": "我想要一份菜单。"
+      }
+    ],
+    "notesCn": "请求物品：水をください。动作请求用てください。对人发出请求时留意礼貌场景。",
+    "levelNote": "基础学习"
+  },
+  {
+    "id": "te-kudasai",
+    "jp": "〜てください",
+    "meaning": "请求对方做某事“请……”",
+    "meaningEn": "please (do)",
+    "rule": "动词て形 + ください",
+    "notes": "Polite, but still an instruction the speaker expects to be followed. Softer requests use 〜てくれませんか (N4).",
+    "group": "请求许可",
+    "examples": [
+      {
+        "ja": "もう少しゆっくり話してください。",
+        "en": "Please speak a little more slowly.",
+        "cn": "请说慢一点。"
+      },
+      {
+        "ja": "ここでくつをぬいでください。",
+        "en": "Please take off your shoes here.",
+        "cn": "请在这里擦鞋。"
+      },
+      {
+        "ja": "すみません、駅までの道を教えてください。",
+        "en": "Excuse me, could you tell me the way to the station?",
+        "cn": "不好意思，能告诉我去车站的路吗？"
+      }
+    ],
+    "notesCn": "先变て形再接ください：読んでください。可加すみません、もう一度等让请求更具体。",
+    "levelNote": "基础学习"
+  },
+  {
+    "id": "naide-kudasai",
+    "jp": "〜ないでください",
+    "meaning": "请求对方不要做某事“请不要……”",
+    "meaningEn": "please don't (do)",
+    "rule": "动词ない形 + でください",
+    "notes": "Softer than 〜てはいけません. In casual speech ください is dropped: 見ないで.",
+    "group": "请求许可",
+    "examples": [
+      {
+        "ja": "教室で食べないでください。",
+        "en": "Please don't eat in the classroom.",
+        "cn": "请勿在教室内用餐。"
+      },
+      {
+        "ja": "この部屋に入らないでください。",
+        "en": "Please don't go into this room.",
+        "cn": "请勿进入此房间。"
+      },
+      {
+        "ja": "心配しないでください。",
+        "en": "Please don't worry.",
+        "cn": "别担心。"
+      }
+    ],
+    "notesCn": "ない形直接＋でください：ここで写真を撮らないでください。不要写成なくてください。",
+    "levelNote": "基础学习"
+  },
+  {
+    "id": "te-mo-ii",
+    "jp": "〜てもいい",
+    "meaning": "许可“可以……”",
+    "meaningEn": "may; it's okay to",
+    "rule": "动词て形 + もいい",
+    "notes": "Add ですか to ask for permission. A polite refusal is often just すみません、ちょっと….",
+    "group": "句型",
+    "examples": [
+      {
+        "ja": "この辞書を使ってもいいですか。",
+        "en": "May I use this dictionary?",
+        "cn": "我可以使用这本词典吗？"
+      },
+      {
+        "ja": "今日は早く帰ってもいいです。",
+        "en": "You may go home early today.",
+        "cn": "您今天可以提前离开。"
+      },
+      {
+        "ja": "ここにすわってもいいですか。",
+        "en": "Is it all right if I sit here?",
+        "cn": "我可以坐在这里吗？"
+      }
+    ],
+    "notesCn": "许可或询问许可：入ってもいいですか。回答はい、いいですよ；也可用更具体的话回应。",
+    "levelNote": "基础学习"
+  },
+  {
+    "id": "te-wa-ikenai",
+    "jp": "〜てはいけない",
+    "meaning": "禁止“不能／不可以……”",
+    "meaningEn": "must not; may not",
+    "rule": "动词て形 + はいけない",
+    "notes": "A strong prohibition, often for rules. Polite form: 〜てはいけません. Casual contraction: 〜ちゃいけない / 〜じゃいけない.",
+    "group": "句型",
+    "examples": [
+      {
+        "ja": "図書館で大きい声で話してはいけません。",
+        "en": "You must not talk loudly in the library.",
+        "cn": "请勿在图书馆大声喧哗。"
+      },
+      {
+        "ja": "子どもはこの川で泳いではいけません。",
+        "en": "Children must not swim in this river.",
+        "cn": "儿童不得在这条河中游泳。"
+      },
+      {
+        "ja": "ここでたばこを吸ってはいけません。",
+        "en": "You must not smoke here.",
+        "cn": "请勿在这里吸烟。"
+      }
+    ],
+    "notesCn": "禁止行为：ここで泳いではいけません。で结尾的て形保持で：飲んではいけません。",
+    "levelNote": "基础学习"
+  },
+  {
+    "id": "nakereba-naranai-nakute-wa-ikenai",
+    "jp": "〜なければならない / 〜なくてはいけない",
+    "meaning": "义务“必须……”",
+    "meaningEn": "must; have to",
+    "rule": "动词ない形词干 + なければならない / 动词ない形词干 + なくてはいけない",
+    "notes": "Polite forms end in なりません / いけません. The two mean the same; なければならない sounds slightly more formal.",
+    "group": "句型",
+    "examples": [
+      {
+        "ja": "明日は6時に起きなければなりません。",
+        "en": "I have to get up at six tomorrow.",
+        "cn": "我明天6点要起床。"
+      },
+      {
+        "ja": "今日は早く家に帰らなくてはいけません。",
+        "en": "I have to go home early today.",
+        "cn": "我今天要早点回家。"
+      },
+      {
+        "ja": "日本では、家に入る前にくつをぬがなければなりません。",
+        "en": "In Japan, you have to take off your shoes before going into a house.",
+        "cn": "在日本，进屋前必须擦鞋。"
+      }
+    ],
+    "notesCn": "ない去い后接ければならない，或ない去い后接くてはいけない。表示必须，虽然含否定形却不表示禁止。",
+    "levelNote": "基础学习"
+  },
+  {
+    "id": "nakute-mo-ii",
+    "jp": "〜なくてもいい",
+    "meaning": "表示没有必要“不必……”",
+    "meaningEn": "don't have to; need not",
+    "rule": "动词ない形词干 + なくてもいい",
+    "notes": "The opposite of 〜なければならない. Ask with 〜なくてもいいですか (Is it all right if I don't ...?).",
+    "group": "句型",
+    "examples": [
+      {
+        "ja": "明日は学校へ来なくてもいいです。",
+        "en": "You don't have to come to school tomorrow.",
+        "cn": "你明天不必来学校。"
+      },
+      {
+        "ja": "名前は書かなくてもいいです。",
+        "en": "You don't need to write your name.",
+        "cn": "您无需填写姓名。"
+      },
+      {
+        "ja": "今日は料理をしなくてもいいですよ。",
+        "en": "You don't have to cook today.",
+        "cn": "您今天不必做饭。"
+      }
+    ],
+    "notesCn": "ない去い＋くてもいい表示不必，不表示禁止：明日は来なくてもいいです。",
+    "levelNote": "基础学习"
+  },
+  {
+    "id": "te-iru",
+    "jp": "〜ている",
+    "meaning": "表示正在进行、状态持续或习惯动作",
+    "meaningEn": "be doing (ongoing action); be in a state (result of a change); do regularly",
+    "rule": "动词て形 + いる",
+    "notes": "With action verbs (食べる, 読む) it shows an action in progress; with change verbs (結婚する, 開く, 知る) it shows the resulting state. Polite: 〜ています.",
+    "group": "句型",
+    "examples": [
+      {
+        "ja": "弟は今、部屋でゲームをしています。",
+        "en": "My younger brother is playing a game in his room now.",
+        "cn": "我哥哥现在正在他的房间里玩游戏。"
+      },
+      {
+        "ja": "姉は結婚しています。",
+        "en": "My older sister is married.",
+        "cn": "我姐姐已经结婚了。"
+      },
+      {
+        "ja": "窓が開いています。",
+        "en": "The window is open.",
+        "cn": "窗户是开着的。"
+      }
+    ],
+    "notesCn": "可表示进行：読んでいる；结果状态：結婚している；习惯：毎日走っている。知る→知っています，否定常用知りません。",
+    "levelNote": "基础学习"
+  },
+  {
+    "id": "te",
+    "jp": "〜て",
+    "meaning": "连接动作，表示先后“……然后……”",
+    "meaningEn": "and; and then (linking actions in order)",
+    "rule": "动词て形 + 句子",
+    "notes": "The final verb sets the tense for the whole sentence. 書く→書いて, 飲む→飲んで, 話す→話して, 買う→買って, 行く→行って (irregular).",
+    "group": "句型",
+    "examples": [
+      {
+        "ja": "朝起きて、顔を洗います。",
+        "en": "I get up in the morning and wash my face.",
+        "cn": "早上起床洗脸。"
+      },
+      {
+        "ja": "デパートへ行って、セーターを買いました。",
+        "en": "I went to the department store and bought a sweater.",
+        "cn": "我去百货公司买了一件毛衣。"
+      },
+      {
+        "ja": "家に帰って、晩ご飯を食べて、寝ました。",
+        "en": "I went home, ate dinner and went to bed.",
+        "cn": "我回家吃晚饭，然后上床睡觉。"
+      }
+    ],
+    "notesCn": "多个动作以て形连接，最后一个动词承担时态和礼貌。朝ごはんを食べて、学校へ行きました。",
+    "levelNote": "基础学习"
+  },
+  {
+    "id": "te-kara",
+    "jp": "〜てから",
+    "meaning": "表示做完A之后再做B",
+    "meaningEn": "after doing; (do A) and then (B); since",
+    "rule": "动词て形 + から",
+    "notes": "Stresses that A is finished before B starts, more clearly than a plain て. With ている in the main clause it often means 'since'.",
+    "group": "时间",
+    "examples": [
+      {
+        "ja": "手を洗ってから、ご飯を食べましょう。",
+        "en": "Let's wash our hands and then eat.",
+        "cn": "进食前请洗手。"
+      },
+      {
+        "ja": "宿題をしてから、テレビを見ます。",
+        "en": "I'll watch TV after I do my homework.",
+        "cn": "我做作业，然后看电视。"
+      },
+      {
+        "ja": "日本に来てから、毎日日本語を勉強しています。",
+        "en": "Since coming to Japan, I've been studying Japanese every day.",
+        "cn": "自从我来到日本以来，我每天都在学习日语。"
+      }
+    ],
+    "notesCn": "强调A完成后再B：宿題をしてから遊びます。后句决定整句时态。",
+    "levelNote": "基础学习"
+  },
+  {
+    "id": "tari-tari-suru",
+    "jp": "〜たり〜たりする",
+    "meaning": "列举有代表性的动作“做做A、做做B”",
+    "meaningEn": "do things like A and B; sometimes A, sometimes B",
+    "rule": "动词た形 + り + 动词た形 + りする",
+    "notes": "Picks out a few actions from many. Tense and politeness go on the final する: 〜たりしました.",
+    "group": "句型",
+    "examples": [
+      {
+        "ja": "日曜日はそうじをしたり、洗濯をしたりします。",
+        "en": "On Sundays I do things like cleaning and laundry.",
+        "cn": "我周日做这件事，洗衣服。"
+      },
+      {
+        "ja": "休みの日は本を読んだり、音楽を聞いたりします。",
+        "en": "On my days off I read books, listen to music and so on.",
+        "cn": "在假期，我读书，听音乐。"
+      },
+      {
+        "ja": "夏休みは海で泳いだり、山に登ったりしました。",
+        "en": "During summer vacation I swam in the sea, climbed mountains and so on.",
+        "cn": "暑假期间，我在海里游泳，爬山。"
+      }
+    ],
+    "notesCn": "た形＋り列举部分动作，最后接する／します；不是穷尽动作，也不保证先后顺序。",
+    "levelNote": "基础学习"
+  },
+  {
+    "id": "ta-koto-ga-aru",
+    "jp": "〜たことがある",
+    "meaning": "表示曾经有过某种经历",
+    "meaningEn": "have (ever) done; have the experience of doing",
+    "rule": "动词た形 + ことがある",
+    "notes": "Talks about life experience, not something just done: きのう食べたことがある is wrong. Negative 〜たことがありません means 'have never'.",
+    "group": "句型",
+    "examples": [
+      {
+        "ja": "富士山に登ったことがあります。",
+        "en": "I have climbed Mt. Fuji.",
+        "cn": "我爬过富士山。"
+      },
+      {
+        "ja": "日本の映画を見たことがありますか。",
+        "en": "Have you ever seen a Japanese movie?",
+        "cn": "您看过日本电影吗？"
+      },
+      {
+        "ja": "私は馬に乗ったことがありません。",
+        "en": "I have never ridden a horse.",
+        "cn": "我从来没有骑过马。"
+      }
+    ],
+    "notesCn": "经历：日本へ行ったことがあります。一次具体过去事件一般直接用ました。部分教材将它安排在N4，作为入门衔接学习。",
+    "levelNote": "入门衔接（教材分级可能不同）"
+  },
+  {
+    "id": "mae-ni",
+    "jp": "〜前に",
+    "meaning": "表示做某事之前；也可表示事件之前或多久以前",
+    "meaningEn": "before (doing); before (an event); ago",
+    "rule": "动词辞书形 + 前に / 名词 + の + 前に",
+    "notes": "The verb before 前に is always in dictionary form, even when talking about the past. With a length of time there is no の: 3年前に (three years ago).",
+    "group": "时间",
+    "examples": [
+      {
+        "ja": "寝る前に歯をみがきます。",
+        "en": "I brush my teeth before going to bed.",
+        "cn": "睡觉前刷牙。"
+      },
+      {
+        "ja": "授業の前にコーヒーを飲みます。",
+        "en": "I drink coffee before class.",
+        "cn": "上课前喝咖啡。"
+      },
+      {
+        "ja": "3年前に日本へ来ました。",
+        "en": "I came to Japan three years ago.",
+        "cn": "我三年前来到日本。"
+      }
+    ],
+    "notesCn": "动词辞书形＋前に，即使主句为过去也保持辞书形。名词＋の前に；数量时段＋前に可表示多久以前。",
+    "levelNote": "基础学习"
+  },
+  {
+    "id": "ato-de",
+    "jp": "〜後で",
+    "meaning": "表示做完某事之后",
+    "meaningEn": "after (doing); after (an event)",
+    "rule": "动词た形 + 後で / 名词 + の + 後で",
+    "notes": "The verb before 後で is always in た-form, even for future plans. On its own, 後で means 'later'.",
+    "group": "时间",
+    "examples": [
+      {
+        "ja": "晩ご飯を食べた後で、散歩をします。",
+        "en": "I take a walk after eating dinner.",
+        "cn": "晚饭后我去散散步。"
+      },
+      {
+        "ja": "仕事の後で、いっしょに飲みに行きませんか。",
+        "en": "Would you like to go for a drink after work?",
+        "cn": "我们下班后出去喝一杯怎么样？"
+      },
+      {
+        "ja": "テストが終わった後で、友達と遊びました。",
+        "en": "After the test was over, I hung out with friends.",
+        "cn": "测试结束后，我和朋友一起玩。"
+      }
+    ],
+    "notesCn": "动词た形＋後で、名词＋の後で。读あとで。和前に的动词接续不同，需成对记。",
+    "levelNote": "基础学习"
+  },
+  {
+    "id": "nagara",
+    "jp": "〜ながら（同时）",
+    "meaning": "表示同时进行两个动作“一边……一边……”",
+    "meaningEn": "while (doing two actions at the same time)",
+    "rule": "动词ます形词干 + ながら",
+    "notes": "Both actions are done by the same person. The main action comes last: in A-ながら B, B is the main activity.",
+    "group": "句型",
+    "examples": [
+      {
+        "ja": "音楽を聞きながら勉強します。",
+        "en": "I study while listening to music.",
+        "cn": "我边听音乐边学习。"
+      },
+      {
+        "ja": "父はいつも新聞を読みながら朝ご飯を食べます。",
+        "en": "My father always eats breakfast while reading the newspaper.",
+        "cn": "我父亲总是在看报纸的时候吃早餐。"
+      },
+      {
+        "ja": "コーヒーを飲みながら話しましょう。",
+        "en": "Let's talk over coffee.",
+        "cn": "我们喝杯咖啡聊聊吧。"
+      }
+    ],
+    "notesCn": "ます词干＋ながら，主动作放在后面，两个动作主体相同。音楽を聞きながら勉強します。作为入门衔接巩固。",
+    "levelNote": "入门衔接（教材分级可能不同）"
+  },
+  {
+    "id": "ni-iku",
+    "jp": "〜に行く",
+    "meaning": "表示去某地做某事",
+    "meaningEn": "go (somewhere) to do",
+    "rule": "动词ます形词干 + に行く / 名词 + に行く",
+    "notes": "来る and 帰る work the same way: 遊びに来る. With する-nouns the noun can come directly: 買い物に行く, 散歩に行く.",
+    "group": "句型",
+    "examples": [
+      {
+        "ja": "デパートへ服を買いに行きます。",
+        "en": "I'm going to the department store to buy clothes.",
+        "cn": "我要去百货商店买些衣服。"
+      },
+      {
+        "ja": "週末、海へ泳ぎに行きました。",
+        "en": "I went to the beach to swim on the weekend.",
+        "cn": "我周末去海里游泳。"
+      },
+      {
+        "ja": "友達がうちへ遊びに来ました。",
+        "en": "A friend came over to my place to hang out.",
+        "cn": "一位朋友来拜访我们。"
+      }
+    ],
+    "notesCn": "地点用へ／に，目的动作用ます词干＋に：図書館へ本を借りに行きます。买东西可说買い物に行きます。",
+    "levelNote": "基础学习"
+  },
+  {
+    "id": "ga-suki-ga-kirai",
+    "jp": "〜が好き / 〜が嫌い",
+    "meaning": "表示喜欢／讨厌……",
+    "meaningEn": "like; dislike",
+    "rule": "名词 + が好き / 名词 + が嫌い / 动词辞书形 + の + が好き",
+    "notes": "好き and 嫌い are な-adjectives, so the thing liked takes が, not を. 大好き and 大嫌い are stronger. 嫌い can sound blunt; あまり好きじゃない is softer.",
+    "group": "句型",
+    "examples": [
+      {
+        "ja": "私は甘いものが好きです。",
+        "en": "I like sweet things.",
+        "cn": "我喜欢甜食。"
+      },
+      {
+        "ja": "弟は野菜が嫌いです。",
+        "en": "My younger brother doesn't like vegetables.",
+        "cn": "我弟弟讨厌蔬菜。"
+      },
+      {
+        "ja": "母は料理をするのが好きです。",
+        "en": "My mother likes cooking.",
+        "cn": "我妈妈喜欢做饭。"
+      }
+    ],
+    "notesCn": "好き／嫌い是な形容词，对象常用が。好きな本、魚が好きです。喜欢做事可用辞书形＋のが好き。",
+    "levelNote": "基础学习"
+  },
+  {
+    "id": "ga-jouzu-ga-heta",
+    "jp": "〜が上手 / 〜が下手",
+    "meaning": "表示擅长／不擅长……",
+    "meaningEn": "good at; bad at",
+    "rule": "名词 + が上手 / 名词 + が下手",
+    "notes": "Mostly used about other people; calling yourself 上手 can sound like bragging. Both are な-adjectives: 料理が上手な人.",
+    "group": "句型",
+    "examples": [
+      {
+        "ja": "姉はピアノが上手です。",
+        "en": "My older sister is good at the piano.",
+        "cn": "我姐姐是一位优秀的钢琴家。"
+      },
+      {
+        "ja": "私は歌が下手です。",
+        "en": "I'm bad at singing.",
+        "cn": "我不擅长唱歌。"
+      },
+      {
+        "ja": "マイクさんは日本語が上手ですね。",
+        "en": "Mike, your Japanese is really good.",
+        "cn": "迈克擅长日语，不是吗？"
+      }
+    ],
+    "notesCn": "擅长对象常用が：姉は料理が上手です。上手一般夸别人，自述能力可用得意等更自然的表达。",
+    "levelNote": "基础学习"
+  },
+  {
+    "id": "ga-aru-ga-iru",
+    "jp": "〜がある / 〜がいる",
+    "meaning": "表示存在或拥有：ある用于物，いる用于人和动物",
+    "meaningEn": "there is; there are; have (ある for things, いる for people and animals)",
+    "rule": "名词 + がある / 名词 + がいる",
+    "notes": "ある is for things, plants and events; いる is for people and animals. Negatives: ない / いない (polite: ありません / いません).",
+    "group": "句型",
+    "examples": [
+      {
+        "ja": "公園に大きい木があります。",
+        "en": "There is a big tree in the park.",
+        "cn": "公园里有一棵大树。"
+      },
+      {
+        "ja": "私は妹が一人います。",
+        "en": "I have one younger sister.",
+        "cn": "我有一个姐姐。"
+      },
+      {
+        "ja": "明日、日本語のテストがあります。",
+        "en": "There's a Japanese test tomorrow.",
+        "cn": "我明天有日语考试。"
+      }
+    ],
+    "notesCn": "无生命物用ある，人和动物用いる。结构为地点に对象がある／いる；主题句可用对象は地点にある／いる。",
+    "levelNote": "基础学习"
+  },
+  {
+    "id": "kara-reason",
+    "jp": "〜から（原因）",
+    "meaning": "表示原因“因为……”",
+    "meaningEn": "because; since; so",
+    "rule": "句子 + から",
+    "notes": "The reason comes first: A から B (A, so B). Answer どうして with 〜からです. Nouns and な-adjectives need だ: 雨だから.",
+    "group": "原因",
+    "examples": [
+      {
+        "ja": "今日は寒いから、コートを着ます。",
+        "en": "It's cold today, so I'll wear a coat.",
+        "cn": "今天很冷，所以我要穿件外套。"
+      },
+      {
+        "ja": "時間がありませんから、タクシーで行きましょう。",
+        "en": "We don't have time, so let's take a taxi.",
+        "cn": "我们没有太多时间，所以我们乘坐出租车吧。"
+      },
+      {
+        "ja": "「どうして休みましたか。」「頭が痛かったからです。」",
+        "en": "\"Why were you absent?\" \"Because I had a headache.\"",
+        "cn": "“你为什么休息？”“因为我头痛。”"
+      }
+    ],
+    "notesCn": "原因句＋から＋结果。名词／な形容词普通体常接だから；い形容词和动词普通体直接接から。",
+    "levelNote": "基础学习"
+  },
+  {
+    "id": "ga-but",
+    "jp": "〜が（转折）",
+    "meaning": "连接转折“但是……”",
+    "meaningEn": "but; although",
+    "rule": "句子 + が",
+    "notes": "Also used just to soften a request or lead into a topic: すみませんが…. A little more formal than けど (N4).",
+    "group": "助词",
+    "examples": [
+      {
+        "ja": "この店は安いですが、あまりおいしくないです。",
+        "en": "This restaurant is cheap, but the food isn't very good.",
+        "cn": "这家商店很便宜，但不是很好吃。"
+      },
+      {
+        "ja": "日本語は難しいですが、おもしろいです。",
+        "en": "Japanese is difficult, but interesting.",
+        "cn": "日语很难，但很有趣。"
+      },
+      {
+        "ja": "すみませんが、ちょっと静かにしてください。",
+        "en": "Excuse me, but please be a little quieter.",
+        "cn": "不好意思，请保持安静。"
+      }
+    ],
+    "notesCn": "礼貌句也可以直接接が：高いですが、おいしいです。が也可用于铺垫，不总是强烈转折。",
+    "levelNote": "基础学习"
+  },
+  {
+    "id": "deshou",
+    "jp": "〜でしょう",
+    "meaning": "表示推测、委婉判断或征求确认“……吧”",
+    "meaningEn": "probably; I think; ..., right?",
+    "rule": "动词普通形 / い形容词 / な形容词 / 名词 + でしょう",
+    "notes": "Typical of weather forecasts. Said with rising intonation, it asks the listener to agree. Plain form: だろう (N4).",
+    "group": "句型",
+    "examples": [
+      {
+        "ja": "明日は雨が降るでしょう。",
+        "en": "It will probably rain tomorrow.",
+        "cn": "明天会下雨。"
+      },
+      {
+        "ja": "山の上は寒いでしょう。",
+        "en": "It's probably cold at the top of the mountain.",
+        "cn": "山上会很冷。"
+      },
+      {
+        "ja": "このかばん、かわいいでしょう？",
+        "en": "This bag is cute, isn't it?",
+        "cn": "这个包很可爱吧？"
+      }
+    ],
+    "notesCn": "动词普通形、い形容词直接接でしょう；名词／な形容词去だ接でしょう。语调决定是推测还是确认。",
+    "levelNote": "基础学习"
+  },
+  {
+    "id": "ku-naru-ni-naru",
+    "jp": "〜くなる / 〜になる",
+    "meaning": "表示变化“变得……”",
+    "meaningEn": "become; get; turn",
+    "rule": "い形容词く形 + なる / な形容词 + になる / 名词 + になる",
+    "notes": "いい becomes よくなる. Often used in the past to describe a change that has happened: 大きくなりました.",
+    "group": "句型",
+    "examples": [
+      {
+        "ja": "あたたかくなりましたね。",
+        "en": "It's gotten warmer, hasn't it?",
+        "cn": "热身。"
+      },
+      {
+        "ja": "部屋がきれいになりました。",
+        "en": "The room has become clean.",
+        "cn": "房间已打扫干净。"
+      },
+      {
+        "ja": "兄は来年、医者になります。",
+        "en": "My older brother will become a doctor next year.",
+        "cn": "我哥哥明年就要当医生了。"
+      }
+    ],
+    "notesCn": "い形容词去い＋くなる；な形容词／名词＋になる。いい→よくなる，不是いいくなる。",
+    "levelNote": "基础学习"
+  },
+  {
+    "id": "ni-suru",
+    "jp": "〜にする（decide）",
+    "meaning": "表示决定或选择“决定要……”",
+    "meaningEn": "decide on; choose; I'll have",
+    "rule": "名词 + にする",
+    "notes": "Common when ordering food or picking from options. Past: 〜にしました (I decided on ...).",
+    "group": "句型",
+    "examples": [
+      {
+        "ja": "私はカレーにします。",
+        "en": "I'll have the curry.",
+        "cn": "我会做咖喱。"
+      },
+      {
+        "ja": "飲み物は何にしますか。",
+        "en": "What would you like to drink?",
+        "cn": "您想喝什么？"
+      },
+      {
+        "ja": "旅行は来月にしましょう。",
+        "en": "Let's plan the trip for next month.",
+        "cn": "下个月出行。"
+      }
+    ],
+    "notesCn": "用于作出选择：私はコーヒーにします。不要和になる（自然或客观变化）混淆。",
+    "levelNote": "基础学习"
+  },
+  {
+    "id": "mada-te-inai",
+    "jp": "まだ〜ていない",
+    "meaning": "表示尚未发生“还没有……”",
+    "meaningEn": "not yet (have done)",
+    "rule": "まだ + 动词て形 + いない / まだ + 动词て形 + いません",
+    "notes": "Use ていない, not ませんでした, for something that may still happen. The short answer is いいえ、まだです.",
+    "group": "句型",
+    "examples": [
+      {
+        "ja": "まだ昼ご飯を食べていません。",
+        "en": "I haven't eaten lunch yet.",
+        "cn": "我还没吃午饭呢。"
+      },
+      {
+        "ja": "「宿題はもうしましたか。」「いいえ、まだしていません。」",
+        "en": "\"Have you done your homework yet?\" \"No, not yet.\"",
+        "cn": "“你的作业做完了吗？”“不，我没有。”"
+      },
+      {
+        "ja": "電車はまだ来ていません。",
+        "en": "The train hasn't come yet.",
+        "cn": "火车还没有到。"
+      }
+    ],
+    "notesCn": "还没完成某动作：まだ食べていません。回答もう食べましたか时，否定常用いいえ、まだです。",
+    "levelNote": "基础学习"
+  },
+  {
+    "id": "mou-ta",
+    "jp": "もう〜た",
+    "meaning": "表示动作已经发生“已经……”",
+    "meaningEn": "already (have done); (in questions) yet",
+    "rule": "もう + 动词た形 / もう + 动词ます形词干 + ました",
+    "notes": "In questions もう means 'yet'. With a negative verb, もう means 'no longer': もう食べません.",
+    "group": "时间",
+    "examples": [
+      {
+        "ja": "「もう晩ご飯を食べましたか。」「はい、もう食べました。」",
+        "en": "\"Have you eaten dinner yet?\" \"Yes, I already have.\"",
+        "cn": "“你吃过晚饭了吗？”“是的，我已经吃过了。”"
+      },
+      {
+        "ja": "妹はもう寝ました。",
+        "en": "My younger sister has already gone to bed.",
+        "cn": "我姐姐已经睡着了。"
+      },
+      {
+        "ja": "映画はもう始まりましたよ。",
+        "en": "The movie has already started.",
+        "cn": "电影已经开始了。"
+      }
+    ],
+    "notesCn": "もう表示已经；肯定常接ました／た。もう〜ない可能表示“不再……”，需看时态与上下文。",
+    "levelNote": "基础学习"
+  },
+  {
+    "id": "amari-nai",
+    "jp": "あまり〜ない",
+    "meaning": "あまり＋否定：不太……",
+    "meaningEn": "not very; not much; not often",
+    "rule": "あまり + 动词ない形 / あまり + い形容词く形 + ない / あまり + な形容词 + じゃない",
+    "notes": "Always followed by a negative form. あまり好きじゃない is a softer way to say you dislike something.",
+    "group": "句型",
+    "examples": [
+      {
+        "ja": "私はあまりテレビを見ません。",
+        "en": "I don't watch much TV.",
+        "cn": "我不看太多电视。"
+      },
+      {
+        "ja": "このりんごはあまり甘くないです。",
+        "en": "This apple isn't very sweet.",
+        "cn": "这个苹果不是很甜。"
+      },
+      {
+        "ja": "今日はあまり忙しくありません。",
+        "en": "I'm not very busy today.",
+        "cn": "我今天不太忙。"
+      }
+    ],
+    "notesCn": "あまり＋否定表示程度不高或频率不高。不宜直接翻译为“完全不”。",
+    "levelNote": "基础学习"
+  },
+  {
+    "id": "zenzen-nai",
+    "jp": "全然〜ない",
+    "meaning": "全然＋否定：完全不……",
+    "meaningEn": "not at all; not in the least",
+    "rule": "全然 + 动词ない形 / 全然 + い形容词く形 + ない / 全然 + な形容词 + じゃない",
+    "notes": "Stronger than あまり〜ない. In casual speech 全然 is sometimes used with positive words (全然大丈夫), but with a negative is the standard use.",
+    "group": "句型",
+    "examples": [
+      {
+        "ja": "この問題は全然わかりません。",
+        "en": "I don't understand this question at all.",
+        "cn": "我对此问题一无所知。"
+      },
+      {
+        "ja": "今日は全然寒くないです。",
+        "en": "It's not cold at all today.",
+        "cn": "今天一点也不冷。"
+      },
+      {
+        "ja": "弟は全然勉強しません。",
+        "en": "My younger brother doesn't study at all.",
+        "cn": "我哥哥根本不学习。"
+      }
+    ],
+    "notesCn": "全然＋否定表示完全不。基础备考先掌握否定搭配，口语里的肯定用法不作为这里的重点。",
+    "levelNote": "基础学习"
+  },
+  {
+    "id": "dake",
+    "jp": "〜だけ",
+    "meaning": "限定范围“只／仅仅……”",
+    "meaningEn": "only; just",
+    "rule": "名词 + だけ / 动词辞书形 + だけ",
+    "notes": "Neutral in tone. Compare しか〜ない (N4), which stresses that the amount is small.",
+    "group": "句型",
+    "examples": [
+      {
+        "ja": "財布に100円だけあります。",
+        "en": "I only have 100 yen in my wallet.",
+        "cn": "钱包里只有100日元。"
+      },
+      {
+        "ja": "朝はコーヒーだけ飲みます。",
+        "en": "In the morning I only have coffee.",
+        "cn": "我只在早上喝咖啡。"
+      },
+      {
+        "ja": "日曜日だけ休みです。",
+        "en": "Sunday is my only day off.",
+        "cn": "仅在周日休息。"
+      }
+    ],
+    "notesCn": "だけ限制数量或范围：一つだけください。だけ本身不强制否定。",
+    "levelNote": "基础学习"
+  },
+  {
+    "id": "kurai-gurai",
+    "jp": "〜くらい / 〜ぐらい（大约）",
+    "meaning": "表示大约的数量或时长“左右”",
+    "meaningEn": "about; approximately (an amount or length of time)",
+    "rule": "名词 + くらい / 名词 + ぐらい",
+    "notes": "Used with amounts and durations. For a point in time (around three o'clock), use ごろ: 3時ごろ.",
+    "group": "数量",
+    "examples": [
+      {
+        "ja": "駅まで歩いて10分ぐらいです。",
+        "en": "It's about a ten-minute walk to the station.",
+        "cn": "步行约10分钟即可抵达车站。"
+      },
+      {
+        "ja": "毎日2時間くらい勉強します。",
+        "en": "I study for about two hours every day.",
+        "cn": "我每天学习大约2个小时。"
+      },
+      {
+        "ja": "このかばんは5000円ぐらいでした。",
+        "en": "This bag was about 5,000 yen.",
+        "cn": "这个包的价格约为5000日元。"
+      }
+    ],
+    "notesCn": "数量或时长＋くらい／ぐらい：三十分ぐらい。两者常可互换。钟点的大约通常用ごろ。",
+    "levelNote": "基础学习"
+  },
+  {
+    "id": "goro",
+    "jp": "〜ごろ",
+    "meaning": "表示大致的时间点“……左右”",
+    "meaningEn": "around; about (a point in time)",
+    "rule": "名词 + ごろ",
+    "notes": "Attaches to clock times, dates and months. に after ごろ is optional: 7時ごろ(に)起きます.",
+    "group": "时间",
+    "examples": [
+      {
+        "ja": "毎晩11時ごろ寝ます。",
+        "en": "I go to bed around eleven every night.",
+        "cn": "我每天晚上11点左右睡觉。"
+      },
+      {
+        "ja": "4月ごろ、桜が咲きます。",
+        "en": "The cherry blossoms bloom around April.",
+        "cn": "樱花在四月左右盛开。"
+      },
+      {
+        "ja": "夕方6時ごろに家に帰ります。",
+        "en": "I get home around six in the evening.",
+        "cn": "我会在下午6点左右回家。"
+      }
+    ],
+    "notesCn": "七時ごろ、三月ごろ表示大致时间点；三時間ぐらい表示大约三小时，点与量要区分。",
+    "levelNote": "基础学习"
+  },
+  {
+    "id": "nani-mo-nai-dare-mo-nai",
+    "jp": "何も〜ない / 誰も〜ない",
+    "meaning": "疑问词＋も＋否定：什么也不／谁也不",
+    "meaningEn": "nothing; nobody; not anything; not anyone",
+    "rule": "何も + 动词ない形 / 誰も + 动词ない形",
+    "notes": "With places, a particle comes before も: どこにも / どこへも行きません (go nowhere). 誰 is often written in hiragana: だれ.",
+    "group": "句型",
+    "examples": [
+      {
+        "ja": "けさは何も食べませんでした。",
+        "en": "I didn't eat anything this morning.",
+        "cn": "我什么都没吃。"
+      },
+      {
+        "ja": "教室にはだれもいません。",
+        "en": "There's nobody in the classroom.",
+        "cn": "教室里没有人。"
+      },
+      {
+        "ja": "冷蔵庫の中には何もありません。",
+        "en": "There's nothing in the fridge.",
+        "cn": "冰箱里什么都没有。"
+      }
+    ],
+    "notesCn": "何も食べません、誰もいません。どこにも行きません保留に。注意疑问词＋も与否定呼应。",
+    "levelNote": "基础学习"
+  },
+  {
+    "id": "nani-ka-dare-ka-doko-ka",
+    "jp": "何か / 誰か / どこか",
+    "meaning": "表示某个东西／某个人／某个地方",
+    "meaningEn": "something; someone; somewhere",
+    "rule": "疑问词 + か",
+    "notes": "Question word + か gives 'some-' words; question word + も + negative gives 'no-' words. が and を after 何か / だれか are often dropped.",
+    "group": "疑问",
+    "examples": [
+      {
+        "ja": "何か飲みますか。",
+        "en": "Would you like something to drink?",
+        "cn": "你想喝点什么吗？"
+      },
+      {
+        "ja": "だれか来ましたよ。",
+        "en": "Someone's here.",
+        "cn": "有人来了。"
+      },
+      {
+        "ja": "夏休みにどこかへ行きましたか。",
+        "en": "Did you go anywhere during summer vacation?",
+        "cn": "暑假期间您去过什么地方吗？"
+      }
+    ],
+    "notesCn": "何か表示某物、誰か某人、どこか某处：何か飲みますか。不等同于句末疑问か。",
+    "levelNote": "基础学习"
+  },
+  {
+    "id": "kore-sore-are-dore",
+    "jp": "これ / それ / あれ / どれ",
+    "meaning": "指示代词：这个／那个（你附近）／那个（远处）／哪一个",
+    "meaningEn": "this one; that one (near you); that one (over there); which one",
+    "rule": "これ / それ / あれ / どれ",
+    "notes": "こ = near the speaker, そ = near the listener, あ = away from both, ど = question. They stand alone; as a subject どれ takes が, not は.",
+    "group": "指示词",
+    "examples": [
+      {
+        "ja": "これは私の辞書です。",
+        "en": "This is my dictionary.",
+        "cn": "这是我的字典。"
+      },
+      {
+        "ja": "それは何ですか。",
+        "en": "What is that?",
+        "cn": "是什么？"
+      },
+      {
+        "ja": "「あなたのかさはどれですか。」「あれです。」",
+        "en": "\"Which one is your umbrella?\" \"That one over there.\"",
+        "cn": "“你的雨伞是什么？”“就是这样。”"
+      }
+    ],
+    "notesCn": "可以独立作名词使用：これは本です。こ靠近说话人、そ靠近听话人、あ远离双方、ど用于询问。",
+    "levelNote": "基础学习"
+  },
+  {
+    "id": "kono-sono-ano-dono",
+    "jp": "この / その / あの / どの",
+    "meaning": "连体指示词：这个／那个／哪一个……",
+    "meaningEn": "this; that (near you); that ... over there; which (before a noun)",
+    "rule": "この / その / あの / どの + 名词",
+    "notes": "Always followed by a noun: この本, never この alone. これ / それ / あれ / どれ are used when there is no noun.",
+    "group": "指示词",
+    "examples": [
+      {
+        "ja": "このケーキはおいしいです。",
+        "en": "This cake is delicious.",
+        "cn": "这个蛋糕很好吃。"
+      },
+      {
+        "ja": "その本はだれのですか。",
+        "en": "Whose book is that?",
+        "cn": "这是谁的书？"
+      },
+      {
+        "ja": "「どの人が先生ですか。」「あの人です。」",
+        "en": "\"Which person is the teacher?\" \"That person over there.\"",
+        "cn": "“老师是谁？”“就是他。”"
+      }
+    ],
+    "notesCn": "必须接名词：この本。不能说このは本です。どの本が好きですか中疑问词焦点用が。",
+    "levelNote": "基础学习"
+  },
+  {
+    "id": "koko-soko-asoko-doko",
+    "jp": "ここ / そこ / あそこ / どこ",
+    "meaning": "表示地点：这里／那里（你附近）／那里／哪里",
+    "meaningEn": "here; there (near you); over there; where",
+    "rule": "ここ / そこ / あそこ / どこ",
+    "notes": "こちら / そちら / あちら / どちら are politer versions: お国はどちらですか (Where are you from?).",
+    "group": "指示词",
+    "examples": [
+      {
+        "ja": "ここは私の学校です。",
+        "en": "This is my school.",
+        "cn": "这是我的学校。"
+      },
+      {
+        "ja": "トイレはあそこです。",
+        "en": "The restroom is over there.",
+        "cn": "厕所在那边。"
+      },
+      {
+        "ja": "すみません、駅はどこですか。",
+        "en": "Excuse me, where is the station?",
+        "cn": "对不起，车站在哪里？"
+      }
+    ],
+    "notesCn": "用于地点。礼貌表达为こちら／そちら／あちら／どちら，也可表示方向或人物。",
+    "levelNote": "基础学习"
+  },
+  {
+    "id": "ku-nai-katta-ku-nakatta",
+    "jp": "〜くない / 〜かった / 〜くなかった",
+    "meaning": "い形容词的否定、过去和过去否定变化",
+    "meaningEn": "negative and past forms of i-adjectives (is not; was; was not)",
+    "rule": "い形容词 词干 + くない / い形容词 词干 + かった / い形容词 词干 + くなかった",
+    "notes": "高い→高くない, 高かった, 高くなかった. Add です to be polite. いい is irregular: よくない, よかった, よくなかった.",
+    "group": "句型",
+    "examples": [
+      {
+        "ja": "この部屋はあまり広くないです。",
+        "en": "This room isn't very big.",
+        "cn": "这个房间不是很大。"
+      },
+      {
+        "ja": "きのうのテストは難しかったです。",
+        "en": "Yesterday's test was difficult.",
+        "cn": "昨天的考试很难。"
+      },
+      {
+        "ja": "先週見た映画はおもしろくなかったです。",
+        "en": "The movie I saw last week wasn't interesting.",
+        "cn": "我上周看的电影不太有趣。"
+      }
+    ],
+    "notesCn": "去词尾い：高い→高くない／高かった／高くなかった。いい特殊：よくない／よかった／よくなかった。",
+    "levelNote": "基础学习"
+  },
+  {
+    "id": "na-na-adjective",
+    "jp": "〜な（な形容词）",
+    "meaning": "な形容词修饰名词时用な，句末接です／だ",
+    "meaningEn": "na-adjectives: take な before a noun and です or だ at the end of a sentence",
+    "rule": "な形容词 + な + 名词 / な形容词 + です / な形容词 + ではありません / な形容词 + でした",
+    "notes": "Before a noun, add な: 静かな部屋. At the end of a sentence they change like nouns. きれい and きらい end in い but are な-adjectives.",
+    "group": "句型",
+    "examples": [
+      {
+        "ja": "京都は有名な町です。",
+        "en": "Kyoto is a famous city.",
+        "cn": "京都是一个著名的小镇。"
+      },
+      {
+        "ja": "きのうは暇でした。",
+        "en": "I was free yesterday.",
+        "cn": "昨天我有空。"
+      },
+      {
+        "ja": "この部屋はあまり静かではありません。",
+        "en": "This room isn't very quiet.",
+        "cn": "这个房间不是很安静。"
+      }
+    ],
+    "notesCn": "修饰名词加な：静かな町。句末为静かです／静かだ。きれい、嫌い、有名等要按な形容词处理。",
+    "levelNote": "基础学习"
+  },
+  {
+    "id": "kute-de",
+    "jp": "〜くて / 〜で",
+    "meaning": "连接形容词或名词“……而且……”",
+    "meaningEn": "and (linking adjectives or nouns)",
+    "rule": "い形容词く形 + て / な形容词 + で / 名词 + で",
+    "notes": "いい becomes よくて. Join qualities that point the same way (both good or both bad); for a contrast, use が instead.",
+    "group": "句型",
+    "examples": [
+      {
+        "ja": "この店は安くておいしいです。",
+        "en": "This restaurant is cheap and good.",
+        "cn": "这家商店物美价廉。"
+      },
+      {
+        "ja": "私の町は静かできれいです。",
+        "en": "My town is quiet and clean.",
+        "cn": "我的小镇安静干净。"
+      },
+      {
+        "ja": "兄は大学生で、妹は高校生です。",
+        "en": "My older brother is a university student, and my younger sister is a high school student.",
+        "cn": "我哥哥是大学生，我姐姐是高中生。"
+      }
+    ],
+    "notesCn": "い形容词去い＋くて；な形容词／名词＋で。可以表示并列性质，有时表示原因，结合上下文理解。",
+    "levelNote": "基础学习"
+  },
+  {
+    "id": "to-iu-named",
+    "jp": "〜という（命名）",
+    "meaning": "表示名称“叫作……”",
+    "meaningEn": "called; named",
+    "rule": "名词 + という + 名词",
+    "notes": "Introduces a name the listener may not know.",
+    "group": "句型",
+    "examples": [
+      {
+        "ja": "これは「すきやき」という料理です。",
+        "en": "This is a dish called sukiyaki.",
+        "cn": "这是一道名为「sukiyaki」的菜。"
+      },
+      {
+        "ja": "「さくら」という店でアルバイトをしています。",
+        "en": "I work part-time at a shop called Sakura.",
+        "cn": "我在一家名为「SAKURA」的商店兼职工作。"
+      },
+      {
+        "ja": "山田さんという人から電話がありました。",
+        "en": "There was a call from someone named Yamada.",
+        "cn": "我接到一个叫山田先生的电话。"
+      }
+    ],
+    "notesCn": "名称＋という＋类别：さくらという店。这里说明叫什么，不要求理解所有引用句型。作为衔接项目学习。",
+    "levelNote": "入门衔接（教材分级可能不同）"
+  }
+]
